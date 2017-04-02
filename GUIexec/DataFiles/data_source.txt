@@ -1,0 +1,6327 @@
+*2_3D_CRANIUM (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ 3D CRANIUM
+100	0.285	Helical	112	100	NA	128x0.6mm	1		Semi	On
+1	0.5	H60f	NA
+1	0.5	J30f	SF3
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+5	5	J30f	SF4
+#
+
+*2_3D_SKULL (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ 3D SKULL
+100	0.285	Helical	112	100	NA	128x0.6mm	1		Semi	On
+1	0.5	H60f	NA
+1	0.5	J30f	SF3
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+5	5	J30f	SF4
+#
+
+*2_BRAIN_6MTO6Y (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+100	0.33	Helical	230	100	NA	128x0.6mm	0.6		Semi	On
+5	5	H30f	NA
+5	5	J30f	SF4
+1	1	H60f	NA
+3	3	J30f	SF4
+2	2	J30f	NA
+2	2	H60f	NA
+2	2	J30f	NA
+2	2	H60f	NA
+#
+
+*2_BRAIN_6YTO18Y (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+100	0.33	Helical	320	100	NA	128x0.6mm	0.6		Semi	On
+5	5	H30f	NA
+5	5	J30f	SF4
+1	1	H60f	NA
+3	3	J30f	SF4
+2	2	J30f	NA
+2	2	H60f	NA
+2	2	J30f	NA
+2	2	H60f	NA
+#
+
+*2_BRAIN_FAST (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+100	0.285	Helical	157	100	NA	128x0.6mm	1.5		Semi	On
+5	5	H30f	NA
+5	5	J30f	SF4
+1	1	H60f	NA
+3	3	J30f	SF4
+2	2	J30f	NA
+2	2	H60f	NA
+2	2	J30f	NA
+2	2	H60f	NA
+#
+
+*2_BRAIN_UNDER6M (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	55	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+80	0.33	Helical	267	80	NA	128x0.6mm	0.6		Semi	On
+5	5	H30f	NA
+5	5	J30f	SF4
+1	1	H60f	NA
+3	3	J30f	SF4
+2	2	J30f	NA
+2	2	H60f	NA
+2	2	J30f	NA
+2	2	H60f	NA
+#
+
+*2_FACIAL_BONES (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ FACIAL BONES
+100	0.285	Helical	112	100	NA	128x0.6mm	1		Semi	On
+1	0.5	H60f	NA
+1	0.5	J30f	SF3
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+3	3	J30f	SF3
+#
+
+*2_SINUS_Fusion (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ SINUS Fusion
+100	0.285	Helical	112	100	NA	128x0.6mm	1		Semi	On
+1	1	H30f	NA
+1	1	H60f	NA
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+1	0.5	J30f	SF4
+1	0.5	J49f	SF4
+#
+
+*2_SINUS_LoDose (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	55	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ SINUS LoDose
+100	0.285	Helical	38	100	NA	128x0.6mm	1		Semi	On
+3	3	H30f	NA
+3	3	H60f	NA
+1	0.7	H60f	NA
+1	0.7	H60f	NA
+1	0.5	J30f	SF4
+1	0.5	J49f	SF4
+#
+
+*2_TEMP_BONES (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ TEMP BONES
+100	0.285	Helical	105	100	NA	128x0.6mm	1		Semi	On
+0.6	0.3	H60f	NA
+2	1	H30f	NA
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+1	0.5	J30f	SF4
+#
+
+*3DHEAD_3YTO6Y_80KVP (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ 3D HEAD
+80	0.5	Helical	NA	120	250	128x0.6mm	0.8		Off	Off
+1	0.5	H60f	NA
+1	0.5	C30f	NA
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+5	5	H30f	NA
+#
+
+*3DHEAD_6YTO15Y_80KVP (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ 3D HEAD
+80	0.5	Helical	NA	120	300	128x0.6mm	0.8		Off	Off
+1	0.5	H60f	NA
+1	0.5	C30f	NA
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+5	5	H30f	NA
+#
+
+*3DHEAD_UNDER3Y_80KVP (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ 3D HEAD
+80	0.5	Helical	NA	120	200	128x0.6mm	0.8		Off	Off
+1	0.5	H60f	NA
+1	0.5	C30f	NA
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+5	5	H30f	NA
+#
+
+*BRAIN_3YTO6Y_100KVP_360SCAN (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head w/o 
+100	0.5	Axial	NA	120	150	32x1.2mm	0		Off	Off
+5	NA	C30f	NA
+2	NA	H60f	NA
+#
+
+*BRAIN_6MTO3Y_100KVP_360SCAN (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head w/o 
+100	0.5	Axial	NA	120	150	32x1.2mm	0		Off	Off
+5	NA	C30f	NA
+2	NA	H60f	NA
+#
+
+*BRAIN_6MTO3Y_80KVP_CAREDOSE_360SCAN (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head w/o 
+80	0.5	Axial	340	120	NA	32x1.2mm	0		Off	On
+5	NA	C30f	NA
+2	NA	H60f	NA
+#
+
+*BRAIN_6MTO3Y_80KVP_CAREDOSE_NOORBIT (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head W/O
+80	0.5	Helical	390	120	NA	128x0.6mm	0.6		Off	On
+5	5	H30f	NA
+2	2	H60f	NA
+#
+
+*BRAIN_6YTO15Y_100KVP_360SCAN (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head w/o 
+100	0.5	Axial	NA	120	250	32x1.2mm	0		Off	Off
+5	NA	C30f	NA
+2	NA	H60f	NA
+#
+
+*BRAIN_UNDER15Y_80KVP_VOL_SAFIRE_NOORBIT (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+80	0.5	Helical	270	120	NA	128x0.6mm	0.6		Off	On
+5	5	J30f	SF3
+2	2	H60f	NA
+5	5	J30f	SF2
+5	5	J30f	SF1
+5	5	H30f	NA
+#
+
+*BRAIN_UNDER6M_100KVP_360SCAN (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head w/o 
+100	0.5	Axial	NA	120	100	32x1.2mm	0		Off	Off
+5	NA	C30f	NA
+2	NA	H60f	NA
+#
+
+*BRAIN_UNDER6M_80KVP_CAREDOSE_360SCAN (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head w/o 
+80	0.5	Axial	340	120	NA	32x1.2mm	0		Off	On
+5	NA	C30f	NA
+2	NA	H60f	NA
+#
+
+*BRAIN_UNDER6M_80KVP_CAREDOSE_NOORBIT (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head W/O
+80	0.5	Helical	390	80	NA	128x0.6mm	0.6		Off	On
+5	5	H30f	NA
+2	2	H60f	NA
+#
+
+*FACIAL_BONE_XCARE_SAFIRE_WITH (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ FACIAL BONES
+120	0.5	Helical	150	120	NA	128x0.6mm	0.6		On	On
+1	1	H60f	NA
+3	3	J30f	SF1
+1	1	H60f	NA
+1	1	H60f	NA
+#
+
+*HeadRoutine (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	390	120	NA	128x0.6mm	0.8		On	On
+5	5	H31s	NA
+#
+
+*HeadRoutineSeq (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadSeq
+120	1	Axial	340	120	NA	128x0.6mm	0		On	On
+5	NA	H31s	NA
+#
+
+*HeadSeq_XCARE (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadSeq
+120	1	Axial	340	120	NA	128x0.6mm	0		On	On
+5	NA	H31s	NA
+#
+
+*Head_IR (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	100	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+100	1	Helical	407	100	NA	128x0.6mm	0.8		On	On
+5	5	J30s	SF3
+#
+
+*Head_SAFIRE (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	270	120	NA	128x0.6mm	0.8		On	On
+5	5	J30s	SF3
+#
+
+*Head_XCARE (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	390	120	NA	128x0.6mm	0.6		On	On
+5	5	H31s	NA
+#
+
+*Head_XCARE_IR (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	100	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+100	1	Helical	407	100	NA	128x0.6mm	0.6		On	On
+5	5	J30s	SF3
+#
+
+*Head_XCARE_SAFIRE (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	270	120	NA	128x0.6mm	0.6		On	On
+5	5	J30s	SF3
+#
+
+*InnerEar (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ InnerEar
+120	1	Helical	180	120	NA	128x0.6mm	0.8		On	On
+0.6	0.6	H60s	NA
+#
+
+*InnerEarUHR (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ InnerEarUHR
+120	1	Helical	180	120	NA	16x0.6mm	0.85		On	On
+0.6	0.6	U75u	NA
+#
+
+*InnerEarUHRSeq (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ InnEarUHRSeq
+120	1	Axial	180	120	NA	16x0.6mm	0		On	On
+0.6	NA	U75u	NA
+#
+
+*Medtronic_for_image_guidance (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	107	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ 3D Metronic
+100	0.5	Helical	NA	120	250	128x0.6mm	0.8		Off	Off
+1	0.5	H60f	NA
+1	0.5	C30f	NA
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+#
+
+*NeonateHead (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ NeonateHead
+120	1	Helical	390	120	NA	128x0.6mm	0.8		On	On
+5	5	C30s	NA
+#
+
+*Orbit (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Orbit
+120	1	Helical	125	120	NA	128x0.6mm	0.8		On	On
+3	3	H60s	NA
+3	3	H30s	NA
+0.6	0.4	H60s	NA
+#
+
+*Sinus (Child)
+Child
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Sinus
+120	1	Helical	50	120	NA	128x0.6mm	0.8		On	On
+3	3	H60s	NA
+3	3	H30s	NA
+1	0.7	H60s	NA
+1	0.7	H30s	NA
+#
+
+*SINUS_3YTO6Y_80KVP (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Sinus 3_6yrs
+80	0.5	Helical	NA	120	75	128x0.6mm	0.9		Off	Off
+3	3	H30f	NA
+3	3	H60f	NA
+1	0.7	H60f	NA
+#
+
+*SINUS_6YTO15Y_80KVP (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Sinus 6 to 15yr
+80	0.5	Helical	NA	120	100	128x0.6mm	0.9		Off	Off
+3	3	H30f	NA
+3	3	H60f	NA
+1	0.7	H60f	NA
+#
+
+*SINUS_LANDMARX_FUSION (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ (FUSION)Sinus 
+100	0.5	Helical	NA	120	100	128x0.6mm	0.9		Off	Off
+1	1	H30f	NA
+1	1	H60f	NA
+1	0.7	H60f	NA
+#
+
+*SINUS_MEDTRONIC_FUSION_80KVP (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	107	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ 3D Medtronic
+80	0.5	Helical	NA	120	250	128x0.6mm	0.8		Off	Off
+1	1	H60f	NA
+1	1	C30f	NA
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+#
+
+*SINUS_UNDER3Y_80KVP (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Sinus 0_3yrs
+80	0.5	Helical	NA	120	60	128x0.6mm	0.9		Off	Off
+3	3	H30f	NA
+3	3	H60f	NA
+1	0.7	H60f	NA
+#
+
+*TBONES_3TO6Y_80KVP (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	107	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ T-bones w/o
+80	0.5	Helical	NA	120	200	128x0.6mm	0.8		Off	Off
+0.6	0.3	H60f	NA
+2	1	H30f	NA
+1	0.5	H60f	NA
+#
+
+*TBONES_6YTO15Y_80KVP (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	107	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ T-bones w/o
+80	0.5	Helical	NA	120	240	128x0.6mm	0.8		Off	Off
+0.6	0.3	H60f	NA
+2	1	H30f	NA
+1	0.5	H60f	NA
+#
+
+*TBONES_MEDTRONIC_FUSION_80KVP (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	107	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ T-bones(fusion)
+80	0.5	Helical	NA	120	200	128x0.6mm	0.8		Off	Off
+0.6	0.3	H60f	NA
+2	1	H30f	NA
+1	0.5	H60f	NA
+#
+
+*TBONES_UNDER3Y_80KVP (Child)
+Child
+Head
++ Topogram
+80	0.5	Topo	NA	120	107	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ T-bones w/o
+80	0.5	Helical	NA	120	180	128x0.6mm	0.8		Off	Off
+0.6	0.3	H60f	NA
+2	1	H30f	NA
+1	0.5	H60f	NA
+#
+
+*NeckRoutine (Child)
+Child
+Neck
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+120	1	Helical	165	120	NA	32x1.2mm	0.8		On	On
+5	5	B30s	NA
+1.5	1	B60s	NA
+#
+
+*NECK_100KVP (Child)
+Child
+Neck
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+100	0.5	Helical	NA	120	90	32x1.2mm	1		Off	Off
+3	3	B30f	NA
+3	3	B60f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+#
+
+*NECK_CONTRAST_80KVP_CAREDOSE (Child)
+Child
+Neck
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+100	0.5	Helical	165	100	NA	128x0.6mm	1		On	On
+3	3	B30f	NA
+3	3	B60f	NA
+3	3	B30f	NA
+3	3	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+#
+
+*Neck_IR (Child)
+Child
+Neck
++ Topogram
+100	0.5	Topo	NA	100	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+100	1	Helical	163	100	NA	32x1.2mm	0.8		On	On
+5	5	I30s	SF3
+1.5	1	I50s	SF3
+#
+
+*NECK_NONCON_80KVP_CAREDOSE (Child)
+Child
+Neck
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+100	0.5	Helical	165	100	NA	128x0.6mm	1		On	On
+3	3	B30f	NA
+3	3	B60f	NA
+3	3	B30f	NA
+3	3	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+#
+
+*Neck_SAFIRE (Child)
+Child
+Neck
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+120	1	Helical	115	120	NA	32x1.2mm	0.8		On	On
+5	5	I30s	SF3
+1.5	1	I50s	SF3
+#
+
+*ShoulderRoutine (Child)
+Child
+Shoulder
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Shoulder
+120	1	Helical	165	120	NA	128x0.6mm	0.8		On	On
+5	5	B31s	NA
+0.75	0.5	B31s	NA
+0.75	0.5	B60s	NA
+#
+
+*CAP_FLASH_UNDER55KG_CONTRAST (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ FL_CAP
+120	0.285	Helical	250	100	NA	128x0.6mm	3		On	On
+4	4	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+8	4	B45f	NA
+1	1	B30f	NA
+1	1	I30f	SF2
+2	2	B30f	NA
+#
+
+*CAP_FLASH_UNDER55KG_NONCON (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ FL_CAP
+120	0.285	Helical	250	100	NA	128x0.6mm	3		On	On
+4	4	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+8	4	B45f	NA
+1	1	B30f	NA
+1	1	I30f	SF2
+2	2	B30f	NA
+#
+
+*CAP_UNDER55KG_CONTRAST (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CAP
+120	0.285	Helical	210	100	NA	128x0.6mm	1		On	On
+4	4	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+8	4	B45f	NA
+1	1	B30f	NA
+1	1	I30f	SF2
+2	2	B30f	NA
+#
+
+*CAP_UNDER55KG_NONCON (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CAP
+120	0.285	Helical	210	100	NA	128x0.6mm	1		On	On
+4	4	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+8	4	B45f	NA
+1	1	B30f	NA
+1	1	I30f	SF2
+2	2	B30f	NA
+#
+
+*CHEST_CONTROLLED_VENTILATION (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	106	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ INSPIRATION
+100	0.5	Helical	NA	100	20	128x0.6mm	1		Off	Off
+0.6	0.3	B30f	NA
+1	0.5	B70f	NA
+5	5	B30f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+1	0.7	I70f	SF3
+1	0.7	I70f	SF4
+8	4	B45f	NA
++ EXPIRATION
+100	0.5	Helical	NA	100	20	128x0.6mm	1.2		Off	Off
+0.6	0.3	B30f	NA
+1	0.5	B70f	NA
+5	5	B30f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+1	0.7	I70f	SF3
+1	0.7	I70f	SF4
+8	4	B45f	NA
+#
+
+*CHEST_FLASH_UNDER55KG_CONTRAST (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Thorax
+120	0.285	Helical	130	100	NA	128x0.6mm	3		On	On
+4	4	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+8	4	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
+#
+
+*CHEST_FLASH_UNDER55KG_NONCON (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Thorax
+100	0.285	Helical	130	100	NA	128x0.6mm	3		On	On
+4	4	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+8	4	B45f	NA
+#
+
+*CHEST_UNDER55KG_CONTRAST_FEMALE (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CHEST
+120	0.285	Helical	110	100	NA	128x0.6mm	0.6		On	On
+4	4	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+8	4	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
+#
+
+*CHEST_UNDER55KG_CONTRAST_MALE (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CHEST
+100	0.5	Helical	110	100	NA	128x0.6mm	1.1		On	On
+4	4	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+8	4	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
+#
+
+*CHEST_UNDER55KG_NONCON_FEMALE (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CHEST
+120	0.285	Helical	110	100	NA	128x0.6mm	0.6		On	On
+4	4	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+8	4	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
+#
+
+*CHEST_UNDER55KG_NONCON_MALE (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CHEST
+100	0.5	Helical	110	100	NA	128x0.6mm	1.1		On	On
+4	4	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+8	4	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
+#
+
+*Flash_Thorax (Child)
+Child
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Thorax
+120	0.285	Helical	130	120	NA	128x0.6mm	3		On	On
+3	3	B30f	NA
+3	3	B60f	NA
+1.5	1	B30f	NA
+1.5	1	B60f	NA
+#
+
+*Flash_Thorax_IR (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	100	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Thorax
+120	0.285	Helical	68	120	NA	128x0.6mm	3		On	On
+3	3	I30f	SF3
+3	3	I50f	SF3
+1.5	1	I30f	SF3
+1.5	1	I50f	SF3
+#
+
+*Flash_Thorax_SAFIRE (Child)
+Child
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Thorax
+120	0.285	Helical	80	120	NA	128x0.6mm	3		On	On
+3	3	I30f	SF3
+3	3	I50f	SF3
+1.5	1	I30f	SF3
+1.5	1	I50f	SF3
+#
+
+*HRCT_LOWDOSE_UNDER55KG_FEMALE (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	275	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ INSPIRATION
+100	0.285	Helical	NA	100	50	128x0.6mm	0.6		Off	Off
+4	4	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+8	4	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
++ EXPIRATION
+100	0.285	Axial	NA	100	50	2x1.0mm	0		Off	Off
+1	NA	B70f	NA
+1	NA	B60f	NA
+1	NA	B50f	NA
+#
+
+*HRCT_LOWDOSE_UNDER55KG_MALE (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ INSPIRATION
+100	0.285	Helical	NA	100	50	128x0.6mm	1		Off	Off
+4	4	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+5	5	B60f	NA
+8	4	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
++ EXPIRATION
+100	0.285	Axial	NA	100	50	2x1.0mm	0		Off	Off
+1	NA	B70f	NA
+1	NA	B60f	NA
+1	NA	B50f	NA
+#
+
+*HRCT_UNDER55KG_FEMALE (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	275	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ INSPIRATION
+100	0.285	Helical	110	100	NA	128x0.6mm	0.6		On	On
+4	4	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+8	4	B45f	NA
+1	10	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
++ EXPIRATION
+100	0.33	Axial	110	100	NA	2x1.0mm	0		On	On
+1	NA	B70f	NA
+1	NA	B60f	NA
+1	NA	B50f	NA
+#
+
+*HRCT_UNDER55KG_MALE (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ INSPIRATION
+120	0.285	Helical	110	100	NA	128x0.6mm	1.05		On	On
+4	4	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+5	5	B60f	NA
+8	4	B45f	NA
+1	1	B60f	NA
+1	10	B70f	NA
++ EXPIRATION
+120	0.285	Axial	110	100	NA	2x1.0mm	0		On	On
+1	NA	B70f	NA
+1	NA	B60f	NA
+#
+
+*NCAP_10_45_KGS (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+100	0.5	Helical	NA	120	90	32x1.2mm	1		Off	Off
+3	3	B30f	NA
+3	3	B60f	NA
+2	2	B30f	NA
+2	2	B30f	NA
++ CAP 10-45 kg
+100	0.5	Helical	210	120	NA	32x1.2mm	1.5		Off	On
+3	3	B30f	NA
+2	2	B60f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+2	2	B45f	NA
+5	5	B45f	NA
+10	10	B45f	NA
+#
+
+*NCAP_OVER_45_KGS (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+100	0.5	Helical	NA	120	90	32x1.2mm	1		Off	Off
+3	3	B30f	NA
+3	3	B60f	NA
+2	2	B30f	NA
+2	2	B30f	NA
++ CAP >45 kg
+120	0.5	Helical	210	120	NA	32x1.2mm	1.5		Off	On
+5	5	B30f	NA
+2	2	B60f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+#
+
+*NCAP_UNDER_9_KGS (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+100	0.5	Helical	NA	120	90	32x1.2mm	1		Off	Off
+3	3	B30f	NA
+3	3	B60f	NA
+2	2	B30f	NA
+2	2	B30f	NA
++ CAP <9kg
+80	0.5	Helical	210	120	NA	32x1.2mm	1.5		Off	On
+3	3	B30f	NA
+2	2	B60f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+#
+
+*ThoraxRoutine (Child)
+Child
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.5	Helical	110	120	NA	32x1.2mm	1.4		On	On
+3	3	B30f	NA
+3	3	B60f	NA
+1.5	1	B30f	NA
+1.5	1	B60f	NA
+#
+
+*ThoraxSeqHR (Child)
+Child
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorHRSeq
+120	0.5	Axial	110	120	NA	2x1.0mm	0		On	On
+1	NA	B70s	NA
+#
+
+*Thorax_IR (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	100	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+100	0.5	Helical	93	100	NA	32x1.2mm	1.4		On	On
+3	3	I30f	SF3
+3	3	I50f	SF3
+1.5	1	I30f	SF3
+1.5	1	I50f	SF3
+#
+
+*Thorax_SAFIRE (Child)
+Child
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.5	Helical	65	120	NA	32x1.2mm	1.4		On	On
+3	3	I30f	SF3
+3	3	I50f	SF3
+1.5	1	I30f	SF3
+1.5	1	I50f	SF3
+#
+
+*Thorax_XCARE (Child)
+Child
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.285	Helical	110	120	NA	32x1.2mm	0.6		On	On
+3	3	B30f	NA
+3	3	B60f	NA
+1.5	1	B30f	NA
+1.5	1	B60f	NA
+#
+
+*Thorax_XCARE_IR (Child)
+Child
+Thorax
++ Topogram
+100	0.5	Topo	NA	100	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+100	0.285	Helical	93	100	NA	32x1.2mm	0.6		On	On
+3	3	I30f	SF3
+3	3	I50f	SF3
+1.5	1	I30f	SF3
+1.5	1	I50f	SF3
+#
+
+*Thorax_XCARE_SAFIRE (Child)
+Child
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.285	Helical	65	120	NA	32x1.2mm	0.6		On	On
+3	3	I30f	SF3
+3	3	I50f	SF3
+1.5	1	I30f	SF3
+1.5	1	I50f	SF3
+#
+
+*AbdomenRoutine (Child)
+Child
+Abdomen
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Abdomen
+120	0.5	Helical	210	120	NA	32x1.2mm	1.4		On	On
+5	5	B30f	NA
+#
+
+*Abdomen_IR (Child)
+Child
+Abdomen
++ Topogram
+100	0.5	Topo	NA	100	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Abdomen
+100	0.5	Helical	207	100	NA	32x1.2mm	1.4		On	On
+5	5	I30f	SF3
+#
+
+*Abdomen_SAFIRE (Child)
+Child
+Abdomen
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Abdomen
+120	0.5	Helical	150	120	NA	32x1.2mm	1.4		On	On
+5	5	I30f	SF3
+#
+
+*AP_FLASH_UNDER55KG_CONTRAST (Child)
+Child
+Abdomen
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_AP <55kg
+120	0.285	Helical	210	100	NA	128x0.6mm	3		On	On
+4	4	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+1	1	I30f	SF3
+#
+
+*AP_FLASH_UNDER55KG_NONCON (Child)
+Child
+Abdomen
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_AP <55kg
+120	0.285	Helical	210	100	NA	128x0.6mm	3		On	On
+4	4	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+1	1	I30f	SF3
+#
+
+*AP_STONES_UNDER55KG (Child)
+Child
+Abdomen
++ Topogram
+80	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Stone <55kg
+80	0.285	Helical	100	120	NA	128x0.6mm	1		Off	On
+3	3	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+1	1	I30f	SF3
+#
+
+*AP_UNDER55KG_CONTRAST (Child)
+Child
+Abdomen
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Abd/Pel <55kg
+120	0.285	Helical	210	100	NA	128x0.6mm	1		On	On
+4	4	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+1	1	I30f	SF3
+#
+
+*AP_UNDER55KG_NONCON (Child)
+Child
+Abdomen
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Abd/Pel <55kg
+120	0.285	Helical	210	100	NA	128x0.6mm	1		On	On
+4	4	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+1	1	I30f	SF3
+#
+
+*CTDI_body (Child)
+Child
+Abdomen
++ Abd/Pel <55kg
+100	0.285	Helical	NA	100	180	128x0.6mm	1		Off	Off
+5	5	B30f	NA
+#
+
+*Flash_Abdomen (Child)
+Child
+Abdomen
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Abdomen
+120	0.285	Helical	210	120	NA	128x0.6mm	3		On	On
+5	5	B30f	NA
+#
+
+*Flash_Abdomen_IR (Child)
+Child
+Abdomen
++ Topogram
+100	0.5	Topo	NA	100	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Abdomen
+120	0.285	Helical	148	120	NA	128x0.6mm	3		On	On
+5	5	I30f	SF3
+#
+
+*Flash_Abdomen_SAFIRE (Child)
+Child
+Abdomen
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Abdomen
+120	0.285	Helical	150	120	NA	128x0.6mm	3		On	On
+5	5	I30f	SF3
+#
+
+*CSPINE_80KVP (Child)
+Child
+Spine
++ Topogram
+80	0.5	Topo	NA	120	107	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ C-Spine
+80	0.33	Helical	250	120	NA	128x0.6mm	0.8		Off	On
+1	0.5	B60f	NA
+3	3	B30f	NA
+1	1	B60f	NA
+1	1	B60f	NA
+#
+
+*CTLSPINE_80KVP (Child)
+Child
+Spine
++ Topogram
+80	0.5	Topo	NA	120	107	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ C/T/L Spine
+80	0.33	Helical	330	120	NA	128x0.6mm	0.8		Off	On
+1	0.5	B60f	NA
+3	3	B30f	NA
+1	0.5	B60f	NA
+1	0.5	B60f	NA
+#
+
+*CTSPINE_80KVP (Child)
+Child
+Spine
++ Topogram
+80	0.5	Topo	NA	120	107	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+80	0.33	Helical	300	120	NA	128x0.6mm	0.8		Off	On
+1	0.5	B60f	NA
+3	3	B30f	NA
+1	0.5	B60f	NA
+1	0.5	B60f	NA
+#
+
+*CTSPINE_CHILD_80KV_FLEX_EXT (Child)
+Child
+Spine
++ Topogram
+80	0.5	Topo	NA	120	107	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ c-spine
+80	0.33	Helical	250	120	NA	128x0.6mm	0.8		Off	On
+1	0.5	B60f	NA
+1	1	B60f	NA
++ c-spine (flex)
+80	0.33	Helical	250	120	NA	128x0.6mm	0.8		Off	On
+1	0.5	B60f	NA
+1	1	B60f	NA
++ c-spine (ext)
+80	0.33	Helical	250	120	NA	128x0.6mm	0.8		Off	On
+1	0.5	B60f	NA
+1	1	B60f	NA
+#
+
+*SpineRoutine (Child)
+Child
+Spine
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	330	120	NA	128x0.6mm	0.8		On	On
+2	2	B30s	NA
+0.6	0.4	B60s	NA
+#
+
+*SpineRoutine_Vol (Child)
+Child
+Spine
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	330	120	NA	128x0.6mm	0.8		On	On
+2	2	B30s	NA
+0.6	0.4	B30s	NA
+0.6	0.4	B60s	NA
+#
+
+*Spine_IR (Child)
+Child
+Spine
++ Topogram
+100	0.5	Topo	NA	100	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	231	120	NA	128x0.6mm	0.8		On	On
+2	2	I30s	SF3
+0.6	0.4	I50s	SF3
+#
+
+*Spine_IR_Vol (Child)
+Child
+Spine
++ Topogram
+100	0.5	Topo	NA	100	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	231	120	NA	128x0.6mm	0.8		On	On
+2	2	I30s	SF3
+0.6	0.4	I30s	NA
+0.6	0.4	I50s	NA
+#
+
+*Spine_SAFIRE (Child)
+Child
+Spine
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	230	120	NA	128x0.6mm	0.8		On	On
+2	2	I30s	SF3
+0.6	0.4	I50s	SF3
+#
+
+*Spine_SAFIRE_Vol (Child)
+Child
+Spine
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	230	120	NA	128x0.6mm	0.8		On	On
+2	2	I30s	SF3
+0.6	0.4	I30s	NA
+0.6	0.4	I50s	NA
+#
+
+*E (Child)
+Child
+Pelvis
++ Topogram
+80	0.5	Topo	NA	NA	275	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ PELVIC
+120	1	Helical	65	NA	NA	128x0.6mm	0.8		NA	On
+1	0.5	B60s	NA
+1	0.5	B30s	NA
+#
+
+*PelvisRoutine (Child)
+Child
+Pelvis
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Pelvis
+120	0.5	Helical	210	120	NA	32x1.2mm	0.8		On	On
+5	5	B31f	NA
+#
+
+*PELVIS_BONE (Child)
+Child
+Pelvis
++ Topogram
+80	0.5	Topo	NA	NA	275	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Pelvis Bone
+120	1	Helical	65	NA	NA	128x0.6mm	0.8		NA	On
+1	0.5	B60s	NA
+1	0.5	B30s	NA
+1	0.5	B60s	NA
+1	0.5	B60s	NA
+#
+
+*Pelvis_IR (Child)
+Child
+Pelvis
++ Topogram
+100	0.5	Topo	NA	100	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Pelvis
+100	0.5	Helical	207	100	NA	32x1.2mm	0.8		On	On
+5	5	I31f	SF3
+#
+
+*Pelvis_SAFIRE (Child)
+Child
+Pelvis
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Pelvis
+120	0.5	Helical	150	120	NA	32x1.2mm	0.8		On	On
+5	5	I31f	SF3
+#
+
+*Flash_NeonateBody (Child)
+Child
+Specials
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Neonate
+80	0.285	Helical	226	80	NA	128x0.6mm	3		On	On
+5	5	B30f	NA
+#
+
+*Flash_NeonateBody_70kV (Child)
+Child
+Specials
++ Topogram
+70	0.5	Topo	NA	70	341	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Neonate
+70	0.285	Helical	276	70	NA	128x0.6mm	3		On	On
+5	5	B30f	NA
+#
+
+*Flash_NeonateBody_IR (Child)
+Child
+Specials
++ Topogram
+80	0.5	Topo	NA	80	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Neonate
+80	0.285	Helical	166	80	NA	128x0.6mm	3		On	On
+5	5	I30f	SF3
+#
+
+*Flash_NeonateBody_SAFIRE (Child)
+Child
+Specials
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Neonate
+80	0.285	Helical	160	80	NA	128x0.6mm	3		On	On
+5	5	I30f	SF3
+#
+
+*NeonateBody (Child)
+Child
+Specials
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ NeonateBody
+80	0.5	Helical	225	80	NA	32x1.2mm	1.4		On	On
+5	5	B30f	NA
+#
+
+*NeonateBody_70kV (Child)
+Child
+Specials
++ Topogram
+70	0.5	Topo	NA	70	341	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ NeonateBody
+70	0.5	Helical	275	70	NA	32x1.2mm	1.4		On	On
+5	5	B30f	NA
+#
+
+*NeonateBody_IR (Child)
+Child
+Specials
++ Topogram
+80	0.5	Topo	NA	80	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ NeonateBody
+80	0.5	Helical	166	80	NA	32x1.2mm	1.4		On	On
+5	5	I30f	SF3
+#
+
+*NeonateBody_SAFIRE (Child)
+Child
+Specials
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ NeonateBody
+80	0.5	Helical	160	80	NA	32x1.2mm	1.4		On	On
+5	5	I30f	SF3
+#
+
+*Extremity (Child)
+Child
+UpperExtremities
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Extremity
+120	1	Helical	65	NA	NA	128x0.6mm	0.8		NA	On
+3	3	B30s	NA
+1	0.7	B30s	NA
+#
+
+*EXTREM_FOREARM_SURGICASE_UNDER55KG (Child)
+Child
+UpperExtremities
++ Topogram
+100	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ ExtrUHR
+100	1	Helical	65	NA	NA	16x0.6mm	0.85		NA	On
+0.6	0.6	U80u	NA
+0.6	0.6	U80u	NA
+0.6	0.6	U80u	NA
+0.6	0.6	U80u	NA
+#
+
+*EXTREM_GENERAL_UNDER55KG (Child)
+Child
+UpperExtremities
++ Topogram
+100	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Extremity
+100	0.5	Helical	65	NA	NA	128x0.6mm	0.8		NA	On
+3	3	B30f	NA
+1	1	B70f	NA
+0.6	0.6	B70f	NA
+0.6	0.6	B70f	NA
+0.6	0.6	I70f	SF1
+0.6	0.6	I70f	SF2
+2	2	B70f	NA
+2	2	B70f	NA
+#
+
+*EXTREM_HRES_UNDER55KG (Child)
+Child
+UpperExtremities
++ Topogram
+100	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ ExtrUHR
+100	1	Helical	65	NA	NA	16x0.6mm	0.85		NA	On
+0.6	0.6	U80u	NA
+3	3	U30u	NA
+#
+
+*EXTREM_MATERIALISE_PROTOCOL (Child)
+Child
+UpperExtremities
++ Topogram
+100	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Forearm/hands
+100	0.285	Helical	65	NA	NA	128x0.6mm	1		NA	On
+0.6	0.6	B70f	NA
+#
+
+*ExtrUHR (Child)
+Child
+UpperExtremities
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ ExtrUHR
+120	1	Helical	65	NA	NA	16x0.6mm	0.85		NA	On
+0.6	0.6	U80u	NA
+#
+
+*Extremity (Child)
+Child
+LowerExtremities
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Extremity
+120	1	Helical	65	NA	NA	128x0.6mm	0.8		NA	On
+3	3	B30s	NA
+1	0.7	B30s	NA
+#
+
+*EXTREM_LARGE_BONE (Child)
+Child
+LowerExtremities
++ Topogram
+120	0.5	Topo	NA	NA	275	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Large Bone
+120	1	Helical	65	NA	NA	128x0.6mm	0.8		NA	On
+1	0.5	B60s	NA
+1	0.5	B30s	NA
+1	0.5	B60s	NA
+1	0.5	B60s	NA
+#
+
+*EXTREM_SMALL_BONE (Child)
+Child
+LowerExtremities
++ Topogram
+100	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ SMALL BONE
+100	0.5	Helical	65	NA	NA	128x0.6mm	1.05		NA	On
+1	0.5	B60f	NA
+3	3	B30f	NA
+2	2	B60f	NA
+2	2	B60f	NA
+#
+
+*ExtrUHR (Child)
+Child
+LowerExtremities
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ ExtrUHR
+120	1	Helical	65	NA	NA	16x0.6mm	0.85		NA	On
+0.6	0.6	U80u	NA
+#
+
+*SCANOGRAM (Child)
+Child
+LowerExtremities
++ SCANOGRAM
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
+#
+
+*SCANOGRAM_UNDER55KG (Child)
+Child
+LowerExtremities
++ SCANOGRAM
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
+#
+
+*CTA_FLASH_CORONARY_UNDER55KG (Child)
+Child
+Cardiac
++ Topogram
+80	0.5	Topo	NA	80	55	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Fl_CorCTA
+80	0.285	Helical	690	80	NA	128x0.6mm	3.4		On	On
+0.75	0.4	B30f	NA
+0.6	0.3	B26f	NA
+0.5	0.3	I26f	SF2
+0.5	0.3	I26f	SF4
+2	2	B60f	NA
+6	3	B45f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+#
+
+*DS_CoronaryCTA_AdaptSeqSpi (Child)
+Child
+Cardiac
++ Topogram
+80	0.5	Topo	NA	80	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS CorAdSeq
+80	0.285	Axial	690	80	NA	128x0.6mm	0		On	On
+3	NA	B30f	NA
+0.6	NA	B26f	NA
++ DS CorCTA
+80	0.285	Helical	690	80	NA	128x0.6mm	0.23		On	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+1.5	1	B26f	NA
+#
+
+*Flash_Cardio (Child)
+Child
+Cardiac
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_CorCTA
+80	0.285	Helical	690	80	NA	128x0.6mm	3.4		On	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+#
+
+*Flash_Cardio_IR (Child)
+Child
+Cardiac
++ Topogram
+100	0.5	Topo	NA	100	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_CorCTA
+80	0.285	Helical	416	80	NA	128x0.6mm	3.4		On	On
+3	3	I30f	SF3
+0.6	0.3	I26f	SF3
+#
+
+*Flash_Cardio_SAFIRE (Child)
+Child
+Cardiac
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_CorCTA
+80	0.285	Helical	540	80	NA	128x0.6mm	3.4		On	On
+3	3	I30f	SF3
+0.6	0.3	I26f	SF3
+#
+
+*BodyAngio (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ BodyAngio
+80	0.5	Helical	225	80	NA	128x0.6mm	1.4		On	On
+3	3	B30f	NA
+0.6	0.4	B26f	NA
+#
+
+*BodyAngio_IR (Child)
+Child
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ BodyAngio
+80	0.5	Helical	156	80	NA	128x0.6mm	1.4		On	On
+3	3	I30f	SF3
+0.6	0.4	I26f	SF3
+#
+
+*BodyAngio_SAFIRE (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ BodyAngio
+80	0.5	Helical	160	80	NA	128x0.6mm	1.4		On	On
+3	3	I30f	SF3
+0.6	0.4	I26f	SF3
+#
+
+*CarotidAngio (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CarotidAngio
+80	0.5	Helical	225	80	NA	128x0.6mm	1.4		On	On
+5	5	B30f	NA
+0.6	0.4	B26f	NA
+#
+
+*CarotidAngio_IR (Child)
+Child
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CarotidAngio
+80	0.5	Helical	156	80	NA	128x0.6mm	1.4		On	On
+5	5	I30f	SF3
+0.6	0.4	I26f	SF3
+#
+
+*CarotidAngio_SAFIRE (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CarotidAngio
+80	0.5	Helical	160	80	NA	128x0.6mm	1.4		On	On
+5	5	I30f	SF3
+0.6	0.4	I26f	SF3
+#
+
+*CTA_AP_UNDER55KG (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA_AP
+80	0.285	Helical	230	80	NA	128x0.6mm	1.5		On	On
+1.5	0.75	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+#
+
+*CTA_CHEST_UNDER55KG (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA_Chest
+80	0.285	Helical	200	80	NA	128x0.6mm	1.5		On	On
+1.5	0.75	B26f	NA
+2	1	B60f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+8	4	B45f	NA
+#
+
+*CTA_FLASH_AP_UNDER55KG (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA_AP_Fl
+80	0.285	Helical	230	80	NA	128x0.6mm	3		On	On
+1	0.5	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+#
+
+*CTA_FLASH_CHEST_UNDER55KG (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA_Chest_Fl
+80	0.285	Helical	200	80	NA	128x0.6mm	3		On	On
+1	0.5	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+2	1	B60f	NA
+8	4	B45f	NA
+#
+
+*CTA_FLASH_FONTAN_TX (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA_Chest_Fl
+80	0.285	Helical	200	80	NA	128x0.6mm	3		On	On
+1	0.5	B26f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+2	1	B60f	NA
+8	4	B45f	NA
++ Abd/Pel <55kg
+120	0.285	Helical	250	80	NA	128x0.6mm	1		On	On
+2	2	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+2	2	I30f	SF1
+2	2	I30f	SF2
+2	2	I30f	SF3
+#
+
+*CTA_FLASH_HEADNECK_UNDER15Y (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Fl_CTA_HN
+80	0.285	Helical	200	80	NA	128x0.6mm	3		On	On
+1	0.5	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+#
+
+*CTA_FLASH_PE (Child)
+Child
+Vascular
++ Topogram
+70	0.5	Topo	NA	80	318	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+70	0.285	Axial	NA	80	18	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+70	0.285	Axial	NA	80	18	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA_Chest_Fl
+100	0.285	Helical	200	80	NA	128x0.6mm	3		Semi	On
+1	0.5	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+2	1	B60f	NA
+8	4	B45f	NA
+#
+
+*CTA_Fontan_PreTx_Liver_UNDER55KG (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	521	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CT_AP_ART
+80	0.285	Helical	230	80	NA	128x0.6mm	3		Semi	On
+1	0.5	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
++ CT_CAP_VEN
+80	0.285	Helical	NA	80	NA	128x0.6mm	3		Off	Off
+1	0.5	B26f	NA
+0.6	0.6	B26f	NA
+0.6	0.6	I26f	SF1
+0.6	0.6	I26f	SF2
+0.6	0.6	I26f	SF3
+0.6	0.6	I26f	SF4
+0.6	0.6	I26f	SF5
++ CT_CH_2ND
+80	0.285	Helical	NA	80	NA	128x0.6mm	3		Off	Off
+1	0.5	B26f	NA
+0.6	0.6	B26f	NA
+0.6	0.6	I26f	SF1
+0.6	0.6	I26f	SF2
+0.6	0.6	I26f	SF3
+0.6	0.6	I26f	SF4
+0.6	0.6	I26f	SF5
+#
+
+*CTA_HEADNECK_UNDER15Y (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.5	Axial	NA	80	20	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ Monitoring
+80	0.5	Axial	NA	80	20	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ CTA HeadNeck
+100	0.5	Helical	200	80	NA	128x0.6mm	1.4		On	On
+1	0.5	B30f	NA
+1	0.5	B30f	NA
+1	0.5	B30f	NA
+5	5	B30f	NA
+#
+
+*CTA_HEAD_AND_NECK (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+100	0.5	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ Monitoring
+100	0.5	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ CTA HeadNec
+100	0.5	Helical	125	100	NA	128x0.6mm	1.5		On	On
+1	0.5	B30f	NA
+5	5	B30f	NA
+5	5	B30f	NA
+5	5	B30f	NA
+#
+
+*CTA_RUNOFF_UNDER55KG (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.5	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ Monitoring
+80	0.5	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ CTA_Runoff
+80	0.5	Helical	200	80	NA	128x0.6mm	1.5		On	On
+1.5	0.75	B26f	NA
+2	1	B26f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+#
+
+*CTLIVERTX_UNDER55KG (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA_FL_AB
+80	0.285	Helical	230	80	NA	128x0.6mm	3		On	On
+1	0.5	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
++ VENOUS_FL
+120	0.285	Helical	210	80	NA	128x0.6mm	3		On	On
+4	4	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+1	1	I30f	SF3
+#
+
+*CTPHTN_NEONATE (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	318	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CTA_Chest_Fl
+80	0.285	Helical	200	80	NA	128x0.6mm	3		Semi	On
+1	0.5	B26f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+2	1	B60f	NA
+8	4	B45f	NA
++ Seg-Expiration
+80	0.5	Axial	110	100	NA	2x1.0mm	0		Semi	On
+1	NA	B70s	NA
+1	NA	B60s	NA
+1	NA	B50s	NA
++ Flash-Expiration
+100	0.5	Helical	110	100	NA	128x0.6mm	1.1		Semi	On
+4	4	B30f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
+#
+
+*CTPHTN_UNDER55KG (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	80	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA_Chest_Fl
+80	0.285	Helical	200	80	NA	128x0.6mm	3		On	On
+1	0.5	B26f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+2	1	B60f	NA
+8	4	B45f	NA
++ Abd/Pel <55kg
+120	0.285	Helical	210	100	NA	128x0.6mm	1		On	On
+4	4	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+1	1	I30f	SF3
++ EXPIRATION
+120	0.5	Axial	110	100	NA	2x1.0mm	0		On	On
+1	NA	B70s	NA
+1	NA	B60s	NA
+1	NA	B50s	NA
+#
+
+*Flash_BodyAngio (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_BodyAngio
+80	0.285	Helical	226	80	NA	128x0.6mm	3		On	On
+3	3	B30f	NA
+0.6	0.4	B26f	NA
+#
+
+*Flash_BodyAngio_IR (Child)
+Child
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_BodyAngio
+80	0.285	Helical	158	80	NA	128x0.6mm	3		On	On
+3	3	I30f	SF3
+0.6	0.4	I26f	SF3
+#
+
+*Flash_BodyAngio_SAFIRE (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	265	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_BodyAngio
+80	0.285	Helical	160	80	NA	128x0.6mm	3		On	On
+3	3	I30f	SF3
+0.6	0.4	I26f	SF3
+#
+
+*HeadAngio (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+80	0.5	Helical	250	80	NA	128x0.6mm	1.4		On	On
+2	2	H20f	NA
+0.6	0.4	H10f	NA
+#
+
+*HeadAngio_IR (Child)
+Child
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+80	0.5	Helical	155	80	NA	128x0.6mm	1.4		On	On
+2	2	J30f	SF3
+0.6	0.4	J30f	SF3
+#
+
+*HeadAngio_SAFIRE (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+80	0.5	Helical	180	80	NA	128x0.6mm	1.4		On	On
+2	2	J30f	SF3
+0.6	0.4	J30f	SF3
+#
+
+*HeadAngio_XCARE (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+80	0.285	Helical	250	80	NA	128x0.6mm	0.6		On	On
+2	2	H20f	NA
+0.6	0.4	H10f	NA
+#
+
+*HeadAngio_XCARE_IR (Child)
+Child
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+80	0.285	Helical	155	80	NA	128x0.6mm	0.6		On	On
+2	2	J30f	SF3
+0.6	0.4	J30f	SF3
+#
+
+*HeadAngio_XCARE_SAFIRE (Child)
+Child
+Vascular
++ Topogram
+80	0.5	Topo	NA	80	137	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+80	0.285	Helical	180	80	NA	128x0.6mm	0.6		On	On
+2	2	J30f	SF3
+0.6	0.4	J30f	SF3
+#
+
+*CTDI_body (Child)
+Child
+Private
++ Abd/Pel10-4kg
+100	0.285	Helical	NA	120	180	128x0.6mm	1		Off	Off
+5	5	B30f	NA
+#
+
+*RT_Abdomen (Child)
+Child
+RT
++ Topogram
+100	0.5	Topo	NA	100	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Abdomen
+120	0.5	Helical	250	120	NA	32x1.2mm	0.6		Semi	On
+4	4	B30f	NA
+#
+
+*RT_Head (Child)
+Child
+RT
++ Topogram
+100	0.5	Topo	NA	100	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	410	120	NA	32x1.2mm	0.8		Off	On
+3	3	H30s	NA
+#
+
+*2_3D_CRANIUM (Adult)
+Adult
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ 3D CRANIUM
+100	0.5	Helical	438	100	NA	128x0.6mm	0.8		Semi	On
+1	0.5	H60f	NA
+1	0.5	J30f	SF3
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+5	5	J30f	SF4
+#
+
+*2_3D_SKULL (Adult)
+Adult
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ 3D SKULL
+100	0.5	Helical	438	100	NA	128x0.6mm	0.8		Semi	On
+1	0.5	H60f	NA
+1	0.5	J30f	SF3
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+5	5	J30f	SF4
+#
+
+*2_BRAIN (Adult)
+Adult
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+100	0.5	Helical	400	100	NA	128x0.6mm	0.6		Semi	On
+5	5	H30f	NA
+5	5	J30f	SF4
+1	1	H60f	NA
+3	3	J30f	SF4
+2	2	J30f	NA
+2	2	H60f	NA
+2	2	J30f	NA
+2	2	H60f	NA
+#
+
+*2_BRAIN_FAST (Adult)
+Adult
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+100	0.5	Helical	400	100	NA	128x0.6mm	1		Semi	On
+5	5	H30f	NA
+5	5	J30f	SF4
+1	1	H60f	NA
+3	3	J30f	SF4
+2	2	J30f	NA
+2	2	H60f	NA
+2	2	J30f	NA
+2	2	H60f	NA
+#
+
+*2_FACIAL_BONES (Adult)
+Adult
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ FACIAL BONES
+100	0.5	Helical	438	100	NA	128x0.6mm	0.8		Semi	On
+1	0.5	H60f	NA
+1	0.5	J30f	SF3
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+3	3	J30f	SF3
+#
+
+*2_SINUS (Adult)
+Adult
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ SINUS
+100	0.5	Helical	116	100	NA	128x0.6mm	0.8		Semi	On
+3	3	H30f	NA
+3	3	H60f	NA
+1	0.7	H60f	NA
+1	0.7	H60f	NA
+1	0.5	J30f	SF4
+1	0.5	J49f	SF4
+#
+
+*2_TEMP_BONES (Adult)
+Adult
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ TEMP BONES
+100	0.5	Helical	323	100	NA	128x0.6mm	0.8		Semi	On
+0.6	0.3	H60f	NA
+2	1	H30f	NA
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+1	0.5	J30f	SF4
+#
+
+*3DHEAD_OVER15Y_100KVP (Adult)
+Adult
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ 3D HEAD
+100	0.5	Helical	NA	120	300	128x0.6mm	0.8		Off	Off
+1	0.5	H60f	NA
+1	0.5	H30f	NA
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+5	5	H30f	NA
+#
+
+*BRAIN_OVER15Y_100KVP_360SCAN (Adult)
+Adult
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Brain w/o
+100	1	Axial	NA	120	410	32x1.2mm	0		Off	Off
+5	NA	H30s	NA
+2	NA	H60s	NA
+#
+
+*BRAIN_OVER15Y_80KVP_VOL_SAFIRE_NOORBIT (Adult)
+Adult
+Head
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+80	0.5	Helical	270	120	NA	128x0.6mm	0.55		Off	On
+5	5	J30f	SF3
+2	2	H60f	NA
+5	5	J30f	SF2
+5	5	J30f	SF1
+5	5	H30f	NA
+#
+
+*Dental (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Dental
+120	1	Helical	90	120	NA	128x0.6mm	0.8		On	On
+0.75	0.5	H60s	NA
+#
+
+*HeadIntervention (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ i-Spiral
+120	0.5	Helical	420	120	NA	32x1.2mm	0.55		On	On
+5	3.5	H32f	NA
+#
+
+*HeadNeuro (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	320	120	NA	20x0.6mm	0.55		On	On
+5	5	H31s	NA
+#
+
+*HeadNeuroSeq (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadSeq
+120	1	Axial	320	120	NA	12x1.2mm	0		On	On
+4.8	NA	H31s	NA
+#
+
+*HeadNeuro_XCARE (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	320	120	NA	40x0.6mm	0.55		On	On
+5	5	H31s	NA
+#
+
+*HeadRoutine (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	390	120	NA	128x0.6mm	0.55		On	On
+5	5	H31s	NA
+#
+
+*HeadRoutineSeq (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadSeq
+120	1	Axial	340	120	NA	32x1.2mm	0		On	On
+5	NA	H31s	NA
+#
+
+*HeadSeq_XCARE (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadSeq
+120	1	Axial	340	120	NA	32x1.2mm	0		On	On
+5	NA	H31s	NA
+#
+
+*Head_IR (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	273	120	NA	128x0.6mm	0.55		On	On
+5	5	J30s	SF3
+#
+
+*Head_SAFIRE (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	270	120	NA	128x0.6mm	0.55		On	On
+5	5	J30s	SF3
+#
+
+*Head_XCARE (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	390	120	NA	128x0.6mm	0.55		On	On
+5	5	H31s	NA
+#
+
+*Head_XCARE_IR (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	273	120	NA	128x0.6mm	0.55		On	On
+5	5	J30s	SF3
+#
+
+*Head_XCARE_SAFIRE (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	270	120	NA	128x0.6mm	0.55		On	On
+5	5	J30s	SF3
+#
+
+*InnerEar (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ InnerEar
+120	1	Helical	180	120	NA	128x0.6mm	0.8		On	On
+2	2	H60s	NA
+0.6	0.4	H60s	NA
+0.6	0.4	H60s	NA
+#
+
+*InnerEarUHR (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ InnerEarUHR
+120	1	Helical	180	120	NA	16x0.6mm	0.85		On	On
+2	2	U75u	NA
+0.6	0.4	U75u	NA
+0.6	0.4	U75u	NA
+#
+
+*InnerEarUHRSeq (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ InnEarUHRSeq
+120	1	Axial	180	120	NA	16x0.6mm	0		On	On
+2	NA	U75u	NA
+0.6	NA	U75u	NA
+#
+
+*Orbit (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Orbit
+120	1	Helical	125	120	NA	128x0.6mm	0.8		On	On
+5	5	H60s	NA
+5	5	H30s	NA
+0.6	0.4	H60s	NA
+#
+
+*Sinus (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Sinus
+120	1	Helical	50	120	NA	128x0.6mm	0.8		On	On
+5	5	H60s	NA
+5	5	H30s	NA
+1	0.7	H60s	NA
+1	0.7	H30s	NA
+#
+
+*SinusVol (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Sinus
+120	1	Helical	50	120	NA	128x0.6mm	0.8		On	On
+5	5	H60s	NA
+3	3	H30s	NA
+3	3	H60s	NA
+#
+
+*SINUS_OVER15Y_100KVP (Adult)
+Adult
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Sinus >15yrs
+100	0.5	Helical	NA	100	100	128x0.6mm	0.9		Off	Off
+3	3	H30f	NA
+3	3	H60f	NA
+1	0.7	H60f	NA
+#
+
+*Sinus_Vol (Adult)
+Adult
+Head
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Sinus
+120	1	Helical	50	120	NA	128x0.6mm	0.8		On	On
+5	5	H60s	NA
+3	3	H30s	NA
+3	3	H60s	NA
+#
+
+*TBONES_OVER15Y_100KVP (Adult)
+Adult
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ T-bones w/o
+100	0.5	Helical	NA	120	240	128x0.6mm	0.8		Off	Off
+0.6	0.3	H60f	NA
+2	1	H30f	NA
+1	0.5	H60f	NA
+#
+
+*NeckRoutine (Adult)
+Adult
+Neck
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+120	1	Helical	165	120	NA	128x0.6mm	0.8		On	On
+5	5	B31s	NA
+1	0.7	B20s	NA
+#
+
+*NeckThorAbd (Adult)
+Adult
+Neck
++ Topogram
+120	0.5	Topo	NA	120	625	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+120	1	Helical	165	120	NA	128x0.6mm	0.8		On	On
+5	5	B31s	NA
+1	0.7	B20s	NA
++ ThorAbd
+120	0.5	Helical	210	120	NA	128x0.6mm	0.8		On	On
+5	5	B31f	NA
+5	5	B80f	NA
+5	5	B30f	NA
+1	0.7	B30f	NA
+#
+
+*NeckThorax (Adult)
+Adult
+Neck
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+120	1	Helical	165	120	NA	128x0.6mm	0.8		On	On
+5	5	B31s	NA
+1	0.7	B20s	NA
++ Thorax
+120	0.5	Helical	110	120	NA	128x0.6mm	0.8		On	On
+5	5	B31f	NA
+5	5	B70f	NA
+1	0.7	B80f	NA
+#
+
+*Neck_CAP_Routine (Adult)
+Adult
+Neck
++ Topogram
+120	0.5	Topo	NA	120	932	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+120	1	Helical	165	120	NA	128x0.6mm	0.8		On	On
+3	3	B30s	NA
+3	3	B60s	NA
+3	3	B30s	NA
+3	3	B30s	NA
++ CAP
+120	0.5	Helical	210	120	NA	128x0.6mm	1		On	On
+5	5	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B30f	NA
+1	1	I30f	SF2
+2	2	B30f	NA
+#
+
+*Neck_CHEST_Routine (Adult)
+Adult
+Neck
++ Topogram
+120	0.5	Topo	NA	120	932	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+120	1	Helical	165	120	NA	128x0.6mm	0.8		On	On
+3	3	B30s	NA
+3	3	B60s	NA
+3	3	B30s	NA
+3	3	B30s	NA
++ Thorax
+120	0.285	Helical	110	120	NA	128x0.6mm	0.6		On	On
+5	5	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+5	5	B45f	NA
+10	5	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
+#
+
+*Neck_IR (Adult)
+Adult
+Neck
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+120	1	Helical	116	120	NA	128x0.6mm	0.8		On	On
+5	5	I31s	SF3
+1	0.7	I26s	SF3
+#
+
+*Neck_SAFIRE (Adult)
+Adult
+Neck
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Neck
+120	1	Helical	115	120	NA	128x0.6mm	0.8		On	On
+5	5	I31s	SF3
+1	0.7	I26s	SF3
+#
+
+*ShoulderRoutine (Adult)
+Adult
+Shoulder
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Shoulder
+120	1	Helical	165	120	NA	128x0.6mm	0.8		On	On
+5	5	B31s	NA
+0.6	0.4	B31s	NA
+0.6	0.4	B60s	NA
+#
+
+*CAP_FLASH_OVER55KG_CONTRAST (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl CAP
+120	0.285	Helical	250	120	NA	128x0.6mm	3		On	On
+5	5	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B30f	NA
+1	1	I30f	NA
+2	2	B30f	NA
+#
+
+*CAP_FLASH_OVER55KG_NONCON (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_CAP
+120	0.285	Helical	250	120	NA	128x0.6mm	3		On	On
+5	5	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B30f	NA
+1	1	I30f	NA
+2	2	B30f	NA
+#
+
+*CAP_OVER55KG_CONTRAST (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CAP
+120	0.5	Helical	210	120	NA	128x0.6mm	1		On	On
+5	5	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B30f	NA
+1	1	I30f	SF2
+2	2	B30f	NA
+#
+
+*CAP_OVER55KG_NONCON (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CAP
+120	0.5	Helical	210	120	NA	128x0.6mm	1		On	On
+5	5	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B30f	NA
+1	1	I30f	SF2
+2	2	B30f	NA
+#
+
+*CHEST_FLASH_OVER55KG_CONTRAST (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Thorax
+120	0.285	Helical	130	120	NA	128x0.6mm	3		On	On
+5	5	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B60f	NA
+1	1	I70f	NA
+1	1	I70f	NA
+#
+
+*CHEST_FLASH_OVER55KG_NONCON (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Thorax
+120	0.285	Helical	130	120	NA	128x0.6mm	3		On	On
+5	5	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B60f	NA
+1	1	I70f	NA
+1	1	I70f	NA
+#
+
+*CHEST_OVER55KG_CONTRAST_FEMALE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.285	Helical	110	120	NA	128x0.6mm	0.6		On	On
+5	5	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+5	5	B45f	NA
+10	5	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
+#
+
+*CHEST_OVER55KG_CONTRAST_MALE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.5	Helical	110	120	NA	128x0.6mm	1.1		On	On
+5	5	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
+#
+
+*CHEST_OVER55KG_NONCON_FEMALE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.285	Helical	110	120	NA	128x0.6mm	0.6		On	On
+5	5	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF1
+#
+
+*CHEST_OVER55KG_NONCON_MALE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.5	Helical	110	120	NA	128x0.6mm	1.1		On	On
+5	5	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
+#
+
+*DSXXL_Thorax (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
+#
+
+*Flash_Thorax (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Thorax
+120	0.285	Helical	130	120	NA	128x0.6mm	3		On	On
+5	5	B31f	NA
+5	5	B80f	NA
+1	0.7	B31f	NA
+1	0.7	B70f	NA
+#
+
+*Flash_Thorax_IR (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Thorax
+120	0.285	Helical	68	120	NA	128x0.6mm	3		On	On
+5	5	I31f	SF3
+5	5	I70f	SF3
+1	0.7	I31f	SF3
+1	0.7	I70f	SF3
+#
+
+*Flash_Thorax_SAFIRE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Thorax
+120	0.285	Helical	80	120	NA	128x0.6mm	3		On	On
+5	5	I31f	SF3
+5	5	I70f	SF3
+1	0.7	I31f	SF3
+1	0.7	I70f	SF3
+#
+
+*HRCT_LOWDOSE_OVER55KG_FEMALE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ INSPIRATION
+100	0.285	Helical	55	120	NA	128x0.6mm	0.6		Off	On
+5	5	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
++ EXPIRATION
+100	0.5	Axial	55	120	NA	2x1.0mm	0		Off	On
+1	NA	B70s	NA
+1	NA	B60s	NA
+1	NA	B50s	NA
+#
+
+*HRCT_LOWDOSE_OVER55KG_MALE (Adult)
+Adult
+Thorax
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+100	0.5	Helical	55	120	NA	128x0.6mm	1		Off	On
+5	5	B30f	NA
+2	1	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
++ EXPIRATION
+100	0.5	Axial	55	120	NA	2x1.0mm	0		Off	On
+1	NA	B70s	NA
+1	NA	B60s	NA
+1	NA	B50s	NA
+#
+
+*HRCT_OVER55KG_FEMALE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ INSPIRATION
+120	0.285	Helical	110	120	NA	128x0.6mm	0.6		On	On
+5	5	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
++ EXPIRATION
+120	0.5	Axial	110	120	NA	2x1.0mm	0		On	On
+1	NA	B70s	NA
+1	NA	B60s	NA
+1	NA	B50s	NA
+#
+
+*HRCT_OVER55KG_MALE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.5	Helical	110	120	NA	128x0.6mm	1		On	On
+5	5	B30f	NA
+2	2	B60f	NA
+2	2	B45f	NA
+2	2	B45f	NA
+10	5	B45f	NA
+1	1	B60f	NA
+1	1	I70f	SF2
+1	1	I70f	SF3
++ EXPIRATION
+120	0.5	Axial	110	120	NA	2x1.0mm	0		On	On
+1	NA	B70s	NA
+1	NA	B60s	NA
+1	NA	B50s	NA
+#
+
+*LungCARE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ LungCARE
+120	0.5	Helical	20	120	NA	128x0.6mm	1.2		On	On
+5	5	B31f	NA
+5	5	B80f	NA
+1	0.7	B31f	NA
+1	0.7	B60f	NA
+#
+
+*LungLowDose (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ LungLowDose
+120	0.5	Helical	20	120	NA	128x0.6mm	1.2		On	On
+5	5	B31f	NA
+5	5	B80f	NA
+1	0.7	B31f	NA
+1	0.7	B70f	NA
+#
+
+*ThorAbd (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	275	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorAbd
+120	0.5	Helical	210	120	NA	128x0.6mm	0.6		On	On
+5	5	B31f	NA
+5	5	B80f	NA
+5	5	B30f	NA
+1	0.7	B30f	NA
+#
+
+*ThorAbd_XCARE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	275	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorAbd
+120	0.5	Helical	210	120	NA	128x0.6mm	0.6		On	On
+5	5	B31f	NA
+5	5	B80f	NA
+5	5	B30f	NA
+1	0.7	B30f	NA
+#
+
+*ThoraxECGSeqHR (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorECGHR
+120	0.285	Axial	110	120	NA	2x1.0mm	0		On	On
+1	NA	B80f	NA
+#
+
+*ThoraxHR (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorHR
+120	0.5	Helical	110	120	NA	128x0.6mm	1.2		On	On
+5	5	B80f	NA
+5	5	B31f	NA
+0.6	0.4	B70f	NA
+0.6	0.4	B31f	NA
+#
+
+*ThoraxHR_IR (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorHR
+120	0.5	Helical	66	120	NA	128x0.6mm	1.2		On	On
+5	5	I70f	SF3
+5	5	I31f	SF3
+0.6	0.4	I70f	SF3
+0.6	0.4	I31f	SF3
+#
+
+*ThoraxHR_SAFIRE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorHR
+120	0.5	Helical	55	120	NA	128x0.6mm	1.2		On	On
+5	5	I70f	SF3
+5	5	I31f	SF3
+0.6	0.4	I70f	SF3
+0.6	0.4	I31f	SF3
+#
+
+*ThoraxIntervention (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ i-Spiral
+120	0.5	Helical	110	120	NA	32x1.2mm	1.2		On	On
+5	3.5	B31f	NA
+#
+
+*ThoraxRoutine (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.5	Helical	110	120	NA	128x0.6mm	1.2		On	On
+5	5	B31f	NA
+5	5	B80f	NA
+1	0.7	B31f	NA
+1	0.7	B70f	NA
+#
+
+*ThoraxSeqHR (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorHRSeq
+120	0.5	Axial	110	120	NA	2x1.0mm	0		On	On
+1	NA	B80s	NA
+#
+
+*Thorax_IR (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.5	Helical	66	120	NA	128x0.6mm	1.2		On	On
+5	5	I31f	SF3
+5	5	I70f	SF3
+1	0.7	I31f	SF3
+1	0.7	I70f	SF3
+#
+
+*Thorax_SAFIRE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.5	Helical	65	120	NA	128x0.6mm	1.2		On	On
+5	5	I31f	SF3
+5	5	I70f	SF3
+1	0.7	I31f	SF3
+1	0.7	I70f	SF3
+#
+
+*Thorax_XCARE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.285	Helical	110	120	NA	128x0.6mm	0.6		On	On
+5	5	B31f	NA
+5	5	B80f	NA
+1	0.7	B31f	NA
+1	0.7	B70f	NA
+#
+
+*Thorax_XCARE_IR (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.285	Helical	66	120	NA	128x0.6mm	0.6		On	On
+5	5	I31f	SF3
+5	5	I70f	SF3
+1	0.7	I31f	SF3
+1	0.7	I70f	SF3
+#
+
+*Thorax_XCARE_SAFIRE (Adult)
+Adult
+Thorax
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.285	Helical	65	120	NA	128x0.6mm	0.6		On	On
+5	5	I31f	SF3
+5	5	I70f	SF3
+1	0.7	I31f	SF3
+1	0.7	I70f	SF3
+#
+
+*AbdMultiPhase (Adult)
+Adult
+Abdomen
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Non Contrast
+120	0.5	Helical	190	120	NA	32x1.2mm	0.6		On	On
+5	5	B30f	NA
++ Arterial Phase
+120	0.5	Helical	210	120	NA	128x0.6mm	0.6		On	On
+5	5	B30f	NA
+1	0.7	B20f	NA
++ Venous Phase
+120	0.5	Helical	190	120	NA	32x1.2mm	0.6		On	On
+5	5	B30f	NA
+#
+
+*AbdomenIntervention (Adult)
+Adult
+Abdomen
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ i-Spiral
+120	0.5	Helical	210	120	NA	32x1.2mm	0.8		On	On
+5	3.5	B30f	NA
+#
+
+*AbdomenRoutine (Adult)
+Adult
+Abdomen
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Abdomen
+120	0.5	Helical	210	120	NA	128x0.6mm	0.6		On	On
+5	5	B30f	NA
+1	0.7	B20f	NA
+#
+
+*AbdomenSeq (Adult)
+Adult
+Abdomen
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ AbdSeq
+120	0.5	Axial	210	120	NA	32x1.2mm	0		On	On
+5	NA	B30f	NA
+#
+
+*Abdomen_IR (Adult)
+Adult
+Abdomen
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Abdomen
+120	0.5	Helical	147	120	NA	128x0.6mm	0.6		On	On
+5	5	I30f	SF3
+1	0.7	I26f	SF3
+#
+
+*Abdomen_SAFIRE (Adult)
+Adult
+Abdomen
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Abdomen
+120	0.5	Helical	150	120	NA	128x0.6mm	0.6		On	On
+5	5	I30f	SF3
+1	0.7	I26f	SF3
+#
+
+*AP_OVER55KG_CONTRAST (Adult)
+Adult
+Abdomen
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Abd/Pel
+80	0.5	Helical	210	100	NA	128x0.6mm	1.4		On	On
+5	5	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+1	1	I30f	SF3
+#
+
+*AP_OVER55KG_NONCON (Adult)
+Adult
+Abdomen
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Abd/Pel
+120	0.5	Helical	210	100	NA	128x0.6mm	1.4		On	On
+5	5	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+1	1	I30f	SF3
+#
+
+*AP_STONES_OVER55KG (Adult)
+Adult
+Abdomen
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ A/P Stones
+120	0.5	Helical	100	100	NA	128x0.6mm	1.4		On	On
+5	5	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+1	1	I30f	SF3
+#
+
+*Colonography (Adult)
+Adult
+Abdomen
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Colo_supine
+120	0.5	Helical	55	120	NA	128x0.6mm	0.9		On	On
+1	0.7	B20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Colo_prone
+120	0.5	Helical	30	120	NA	128x0.6mm	1.4		On	On
+1	0.7	B10f	NA
+#
+
+*CT_TRIPHASIC_LIVER_OVER55KG (Adult)
+Adult
+Abdomen
++ Topogram
+100	0.5	Topo	NA	100	417	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+100	0.285	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+120	0.285	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CT_LIVER_ART
+100	0.285	Helical	120	100	NA	128x0.6mm	1.5		Semi	On
+2	2	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+0.6	0.6	B26f	NA
+0.6	0.6	I26f	SF2
+0.6	0.6	I26f	SF4
++ CT_CAP_VEN
+120	0.5	Helical	210	100	NA	128x0.6mm	1.4		Semi	On
+5	5	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
++ CT_LIVER_DEL
+100	0.5	Helical	210	100	NA	128x0.6mm	1.4		Semi	On
+5	5	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+2	2	B30f	NA
+#
+
+*CYSTO_OVER55KG_CONTRAST (Adult)
+Adult
+Abdomen
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ cystogram
+80	0.5	Helical	210	100	NA	128x0.6mm	1.4		On	On
+5	5	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+1	1	I30f	SF3
++ 10min delay
+80	0.5	Helical	210	100	NA	128x0.6mm	1.4		On	On
+5	5	B30f	NA
+2	2	B30f	NA
+2	2	B30f	NA
+1	1	B30f	NA
+1	1	I30f	SF1
+1	1	I30f	SF2
+1	1	I30f	SF3
+#
+
+*DSXXL_Abdomen (Adult)
+Adult
+Abdomen
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
+#
+
+*C_Spine (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ C_Spine
+120	1	Helical	275	120	NA	128x0.6mm	0.8		On	On
+2	2	B30s	NA
+0.6	0.4	B20s	NA
+0.6	0.4	B60s	NA
+#
+
+*C_Spine_IR (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ C_Spine
+120	1	Helical	193	120	NA	128x0.6mm	0.8		On	On
+2	2	I30s	SF3
+0.6	0.4	I30s	SF3
+0.6	0.4	I50s	SF3
+#
+
+*C_Spine_IR_Vol (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ C_Spine
+120	1	Helical	193	120	NA	128x0.6mm	0.8		On	On
+2	2	I30s	SF3
+0.6	0.4	I26s	NA
+2	2	I30s	NA
+2	2	I50s	NA
+#
+
+*C_Spine_SAFIRE (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ C_Spine
+120	1	Helical	195	120	NA	128x0.6mm	0.8		On	On
+2	2	I30s	SF3
+0.6	0.4	I30s	SF3
+0.6	0.4	I50s	SF3
+#
+
+*C_Spine_SAFIRE_Vol (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ C_Spine
+120	1	Helical	195	120	NA	128x0.6mm	0.8		On	On
+2	2	I30s	SF3
+0.6	0.4	I26s	NA
+2	2	I30s	NA
+2	2	I50s	NA
+#
+
+*C_Spine_Vol (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ C_Spine
+120	1	Helical	275	120	NA	128x0.6mm	0.8		On	On
+2	2	B30s	NA
+0.6	0.4	B20s	NA
+2	2	B20s	NA
+2	2	B60s	NA
+#
+
+*DSXXL_Spine (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
+#
+
+*DSXXL_Spine_Vol (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
+#
+
+*SpineIntervention (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ i-Spiral
+120	0.5	Helical	275	120	NA	32x1.2mm	0.8		On	On
+5	3.5	B30f	NA
+#
+
+*SpineNeuro (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	330	120	NA	20x0.6mm	0.8		On	On
+3	3	B30s	NA
+0.6	0.4	B20s	NA
+0.6	0.4	B60s	NA
+#
+
+*SpineNeuro_Vol (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	330	120	NA	20x0.6mm	0.8		On	On
+3	3	B30s	NA
+0.6	0.4	B20s	NA
+2	2	B20s	NA
+2	2	B60s	NA
+#
+
+*SpineRoutine (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	330	120	NA	128x0.6mm	0.8		On	On
+3	3	B30s	NA
+0.6	0.4	B20s	NA
+0.6	0.4	B60s	NA
+#
+
+*SpineRoutine_Vol (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	330	120	NA	128x0.6mm	0.8		On	On
+3	3	B30s	NA
+0.6	0.4	B20s	NA
+2	2	B20s	NA
+2	2	B60s	NA
+#
+
+*SpineSeq (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ L3-4
+120	1	Axial	220	120	NA	12x1.2mm	0		On	On
+2.4	NA	B30s	NA
++ L4-5
+120	1	Axial	220	120	NA	12x1.2mm	0		On	On
+2.4	NA	B30s	NA
++ L5-S1
+120	1	Axial	220	120	NA	12x1.2mm	0		On	On
+2.4	NA	B30s	NA
+#
+
+*Spine_IR (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	231	120	NA	128x0.6mm	0.8		On	On
+3	3	I30s	SF3
+0.6	0.4	I30s	SF3
+0.6	0.4	I50s	SF3
+#
+
+*Spine_IR_Vol (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	231	120	NA	128x0.6mm	0.8		On	On
+3	3	I30s	SF3
+0.6	0.4	I26s	NA
+2	2	I30s	NA
+2	2	I50s	NA
+#
+
+*Spine_SAFIRE (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	230	120	NA	128x0.6mm	0.8		On	On
+3	3	I30s	SF3
+0.6	0.4	I30s	SF3
+0.6	0.4	I50s	SF3
+#
+
+*Spine_SAFIRE_Vol (Adult)
+Adult
+Spine
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Spine
+120	1	Helical	230	120	NA	128x0.6mm	0.8		On	On
+3	3	I30s	SF3
+0.6	0.4	I26s	NA
+2	2	I30s	NA
+2	2	I50s	NA
+#
+
+*DSXXL_Pelvis (Adult)
+Adult
+Pelvis
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
+#
+
+*Hip (Adult)
+Adult
+Pelvis
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Hip
+120	1	Helical	190	120	NA	128x0.6mm	0.8		On	On
+5	5	B60s	NA
+0.6	0.4	B60s	NA
+#
+
+*PelvisRoutine (Adult)
+Adult
+Pelvis
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Pelvis
+120	0.5	Helical	210	120	NA	32x1.2mm	0.8		On	On
+5	5	B31f	NA
+#
+
+*Pelvis_IR (Adult)
+Adult
+Pelvis
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Pelvis
+120	0.5	Helical	147	120	NA	32x1.2mm	0.8		On	On
+5	5	I31f	SF3
+#
+
+*Pelvis_SAFIRE (Adult)
+Adult
+Pelvis
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Pelvis
+120	0.5	Helical	150	120	NA	32x1.2mm	0.8		On	On
+5	5	I31f	SF3
+#
+
+*AIRWAYS (Adult)
+Adult
+Specials
++ Topogram
+80	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DynMulti4D
+70	0.285	Helical	NA	80	100	128x0.6mm	0.74		Off	Off
+10	10	H20f	NA
+10	10	H20f	NA
+10	10	H20f	NA
+#
+
+*BodyMultiPhase_VAngio (Adult)
+Adult
+Specials
++ DynMulti4D_L
+100	0.285	Helical	NA	NA	150	32x1.2mm	1		NA	Off
+5	3	B30f	NA
+3	2	B20f	NA
+1.5	1	B20f	NA
+#
+
+*BodyPCT (Adult)
+Adult
+Specials
++ DynMulti
+100	1	Axial	NA	NA	150	32x1.2mm	0		NA	Off
+10	7	B30s	NA
+#
+
+*BodyPCTSeq (Adult)
+Adult
+Specials
++ DynSerio
+100	0.5	Axial	NA	NA	150	32x1.2mm	0		NA	Off
+10	NA	B30f	NA
+#
+
+*BodyPCTSingleSeq (Adult)
+Adult
+Specials
++ DynSerio
+100	0.5	Axial	NA	NA	150	1x10.0mm	0		NA	Off
+10	NA	B30s	NA
+#
+
+*BodyVPCT (Adult)
+Adult
+Specials
++ DynMulti4D
+100	0.285	Helical	NA	NA	150	32x1.2mm	0.5		NA	Off
+5	3	B20f	NA
+3	2	B20f	NA
+1.5	1	B20f	NA
+#
+
+*BodyVPCT_long (Adult)
+Adult
+Specials
++ DynMulti4D_L
+100	0.285	Helical	NA	NA	150	32x1.2mm	1.02		NA	Off
+5	3	B20f	NA
+3	2	B20f	NA
+1.5	1	B20f	NA
+#
+
+*DynMultiECG (Adult)
+Adult
+Specials
++ DynMulti
+80	0.285	Axial	NA	80	100	32x1.2mm	0		Off	Off
+3	1.5	B30f	NA
+#
+
+*DynSerioECGSeq (Adult)
+Adult
+Specials
++ DynSerio
+80	0.285	Axial	NA	80	100	32x1.2mm	0		Off	Off
+3	NA	B30f	NA
+#
+
+*ExtrMultiPhase_VAngioPlus (Adult)
+Adult
+Specials
++ DynMulti4D_XL
+100	0.285	Helical	NA	NA	100	32x1.2mm	1.48		NA	Off
+5	3	B30f	NA
+3	2	B20f	NA
+1.5	1	B20f	NA
+#
+
+*Flash_HeadTrauma (Adult)
+Adult
+Specials
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Head
+120	0.285	Helical	240	120	NA	128x0.6mm	1.55		On	On
+5	5	H31f	NA
+5	5	H60f	NA
+#
+
+*Flash_Trauma (Adult)
+Adult
+Specials
++ Topogram
+120	0.5	Topo	NA	120	625	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Trauma
+140	0.285	Helical	140	140	NA	128x0.6mm	2.1		On	On
+7	7	B30f	NA
+1.5	1	B30f	NA
+1.5	1	B70f	NA
+#
+
+*HeadTrauma (Adult)
+Adult
+Specials
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	420	120	NA	128x0.6mm	0.55		On	On
+5	5	H31s	NA
+5	5	H60s	NA
+#
+
+*HeadTraumaSeq (Adult)
+Adult
+Specials
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadSeq
+120	1	Axial	370	120	NA	32x1.2mm	0		On	On
+5	NA	H31s	NA
+5	NA	H60s	NA
+#
+
+*NeuroMultiPhase_VAngio (Adult)
+Adult
+Specials
++ DynMulti4D_L
+80	0.285	Helical	NA	80	150	32x1.2mm	1.02		Off	Off
+5	3	H30f	NA
+3	2	H30f	NA
+1.5	1	H30f	NA
+#
+
+*NeuroPCT (Adult)
+Adult
+Specials
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	320	120	NA	20x0.6mm	0.55		On	On
+5	5	H31s	NA
++ DynMulti
+80	1	Axial	NA	80	200	32x1.2mm	0		Off	Off
+10	7	H30s	NA
+#
+
+*NeuroPCTSingle (Adult)
+Adult
+Specials
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	320	120	NA	20x0.6mm	0.55		On	On
+5	5	H31s	NA
++ DynMulti
+80	1	Axial	NA	80	200	1x10.0mm	0		Off	Off
+10	10	H30s	NA
+#
+
+*NeuroVPCT (Adult)
+Adult
+Specials
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	320	120	NA	20x0.6mm	0.55		On	On
+5	5	H31s	NA
+1	0.7	H23s	NA
++ DynMulti4D
+80	0.285	Helical	NA	80	200	32x1.2mm	0.5		Off	Off
+10	4	H20f	NA
+5	3	H20f	NA
+1.5	1	H20f	NA
++ HeadAngio
+100	0.5	Helical	175	100	NA	128x0.6mm	0.8		On	On
+1	0.7	H22f	NA
+#
+
+*NeuroVPCT_Stroke (Adult)
+Adult
+Specials
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	320	120	NA	20x0.6mm	0.55		On	On
+5	5	H31s	NA
+1	0.7	H23s	NA
++ DynMulti4D
+80	0.285	Helical	NA	80	200	32x1.2mm	0.5		Off	Off
+10	4	H20f	NA
+5	3	H20f	NA
+1.5	1	H20f	NA
++ HeadAngio
+120	0.5	Helical	130	120	NA	128x0.6mm	0.8		On	On
+1	0.7	H22f	NA
+#
+
+*NeuroVPCT_Tumor (Adult)
+Adult
+Specials
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	320	120	NA	20x0.6mm	0.55		On	On
+5	5	H31s	NA
+1	0.7	H23s	NA
++ DynMulti4D
+80	0.285	Helical	NA	80	200	32x1.2mm	0.5		Off	Off
+10	4	H20f	NA
+5	3	H20f	NA
+1.5	1	H20f	NA
++ HeadAngio
+120	0.5	Helical	130	120	NA	128x0.6mm	0.8		On	On
+1	0.7	H22f	NA
+#
+
+*PolyTrauma (Adult)
+Adult
+Specials
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	0.5	Helical	340	120	NA	32x1.2mm	0.55		On	On
+6	6	H31f	NA
++ Neck
+120	0.5	Helical	165	120	NA	32x1.2mm	0.8		On	On
+5	5	B31f	NA
++ Topogram
+120	0.5	Topo	NA	120	471	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorAbd
+120	0.5	Helical	210	120	NA	32x1.2mm	1.4		On	On
+7	7	B31f	NA
+7	7	B80f	NA
+7	7	B30f	NA
+1.5	1	B30f	NA
+#
+
+*Trauma (Adult)
+Adult
+Specials
++ Topogram
+120	0.5	Topo	NA	120	625	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Trauma
+120	0.5	Helical	180	120	NA	32x1.2mm	1.5		On	On
+7	7	B30f	NA
+1.5	1	B30f	NA
+1.5	1	B70f	NA
+#
+
+*TraumaThin (Adult)
+Adult
+Specials
++ Topogram
+120	0.5	Topo	NA	120	625	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ TraumaThin
+120	0.5	Helical	180	120	NA	128x0.6mm	1.5		On	On
+7	7	B30f	NA
+0.6	0.3	B30f	NA
+0.6	0.3	B70f	NA
+#
+
+*Extremity (Adult)
+Adult
+UpperExtremities
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Extremity
+120	1	Helical	100	NA	NA	128x0.6mm	0.8		NA	On
+4	4	B60s	NA
+1	0.7	B60s	NA
+#
+
+*ExtrUHR (Adult)
+Adult
+UpperExtremities
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ ExtrUHR
+120	1	Helical	120	NA	NA	16x0.6mm	0.85		NA	On
+2	2	U90u	NA
+0.6	0.4	U90u	NA
+#
+
+*Extremity (Adult)
+Adult
+LowerExtremities
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Extremity
+120	1	Helical	100	NA	NA	128x0.6mm	0.8		NA	On
+4	4	B60s	NA
+1	0.7	B60s	NA
+#
+
+*ExtrUHR (Adult)
+Adult
+LowerExtremities
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ ExtrUHR
+120	1	Helical	120	NA	NA	16x0.6mm	0.85		NA	On
+2	2	U90u	NA
+0.6	0.4	U90u	NA
+#
+
+*FootUHR (Adult)
+Adult
+LowerExtremities
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ FootUHR
+120	1	Helical	120	NA	NA	16x0.6mm	0.85		NA	On
+3	3	U90u	NA
+0.6	0.4	U90u	NA
+#
+
+*KneeUHR (Adult)
+Adult
+LowerExtremities
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ KneeUHR
+120	1	Helical	140	NA	NA	16x0.6mm	0.85		NA	On
+3	3	U90u	NA
+0.6	0.4	U90u	NA
+#
+
+*CTA_FLASH_CORONARY_OVER55KG (Adult)
+Adult
+Cardiac
++ Topogram
+100	0.5	Topo	NA	120	106	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+100	0.285	Axial	NA	100	15	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+100	0.285	Axial	NA	100	15	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Fl_CorCTA
+100	0.285	Helical	370	100	NA	128x0.6mm	3.4		On	On
+0.75	0.4	B30f	NA
+0.6	0.3	B26f	NA
+0.5	0.3	I26f	SF2
+0.5	0.3	I26f	SF4
+2	2	B60f	NA
+6	3	B45f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+#
+
+*CTA_GATEDCHEST_FXN_70TO90BPM_OVR55KG (Adult)
+Adult
+Cardiac
++ Topogram
+100	0.5	Topo	NA	120	106	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ DS_CorCTA
+120	0.285	Helical	320	100	NA	128x0.6mm	0.17		On	On
+1	0.7	B30f	NA
+0.75	0.4	B26f	NA
+1	0.7	B26f	NA
+2	2	B60f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+#
+
+*CTA_GATEDCHEST_FXN_70TO90BPM_UNDER55KG (Adult)
+Adult
+Cardiac
++ Topogram
+80	0.5	Topo	NA	120	106	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ DS_CorCTA
+120	0.285	Helical	400	80	NA	128x0.6mm	0.17		On	On
+0.75	0.4	B30f	NA
+0.6	0.3	B26f	NA
+1	0.7	B26f	NA
+2	2	B60f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+#
+
+*CTA_GATEDCHEST_FXN_OVR90BPM_OVR55KG (Adult)
+Adult
+Cardiac
++ Topogram
+100	0.5	Topo	NA	120	106	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ DS_CorCTABi
+120	0.285	Helical	400	100	NA	128x0.6mm	0.17		On	On
+1	0.7	B30f	NA
+0.75	0.4	B26f	NA
+1	0.7	B26f	NA
+2	2	B60f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+#
+
+*CTA_GATEDCHEST_FXN_OVR90BPM_UNDER55KG (Adult)
+Adult
+Cardiac
++ Topogram
+80	0.5	Topo	NA	120	106	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ DS_CorCTABi
+120	0.285	Helical	400	80	NA	128x0.6mm	0.17		On	On
+0.75	0.4	B30f	NA
+0.6	0.3	B26f	NA
+1	0.7	B26f	NA
+2	2	B60f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+#
+
+*CTA_GATEDCHEST_FXN_UNDER70BPM_OVR55KG (Adult)
+Adult
+Cardiac
++ Topogram
+100	0.5	Topo	NA	120	106	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ DS_CorCTA
+120	0.285	Helical	320	100	NA	128x0.6mm	0.17		On	On
+1	0.5	B30f	NA
+0.75	0.4	B26f	NA
+1	0.7	B26f	NA
+2	2	B60f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+#
+
+*CTA_GATEDCHEST_FXN_UNDER70BPM_UNDER55KG (Adult)
+Adult
+Cardiac
++ Topogram
+80	0.5	Topo	NA	120	106	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ DS_CorCTA
+120	0.285	Helical	400	80	NA	128x0.6mm	0.17		On	On
+0.75	0.4	B30f	NA
+0.6	0.3	B26f	NA
+1	0.7	B26f	NA
+2	2	B60f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+#
+
+*CTPE_FLASH_OVER55KG (Adult)
+Adult
+Cardiac
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+100	0.285	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+100	0.285	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA FL CHEST
+80	0.285	Helical	160	100	NA	128x0.6mm	3		On	On
+1.5	0.75	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+2	2	B60f	NA
+10	5	B45f	NA
+#
+
+*DSXXL_CoronaryCTA (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_CorCTA
+120	0.285	Helical	320	120	NA	128x0.6mm	0.17		On	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+1.5	1	B26f	NA
+#
+
+*DS_CaScore (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_CaSc
+120	0.285	Helical	80	120	NA	128x0.6mm	0.17		On	On
+3	1.5	B35f	NA
+#
+
+*DS_CaScoreSeq (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_CaScSeq
+120	0.285	Axial	80	120	NA	32x1.2mm	0		On	On
+3	NA	B35f	NA
+#
+
+*DS_CoroCTA_AdaptSeqArrhythmicHR (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_CorAdSeq
+100	0.285	Axial	366	100	NA	128x0.6mm	0		On	On
+3	NA	B30f	NA
+0.6	NA	B26f	NA
+#
+
+*DS_CoroCTA_AdaptSeq_Edge (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_CorAdSeq
+120	0.285	Axial	320	120	NA	128x0.6mm	0		On	On
+3	NA	I30f	SF3
+0.75	NA	I26f	SF3
+0.5	NA	I46f	SF3
+#
+
+*DS_CoroCTA_ArrhythmicHR (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_CorCTA
+100	0.285	Helical	366	100	NA	128x0.6mm	0.17		On	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+#
+
+*DS_CoronaryCTA (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_CorCTA
+120	0.285	Helical	320	120	NA	128x0.6mm	0.17		On	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+1.5	1	B26f	NA
+#
+
+*DS_CoronaryCTABiSeg (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_CorCTABi
+120	0.285	Helical	320	120	NA	128x0.6mm	0.17		On	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+1.5	1	B26f	NA
+#
+
+*DS_CoronaryCTA_AdaptSeq (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_CorAdSeq
+120	0.285	Axial	320	120	NA	128x0.6mm	0		On	On
+3	NA	B30f	NA
+0.6	NA	B26f	NA
+#
+
+*DS_CoronaryCTA_IR (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_CorCTA
+100	0.285	Helical	256	100	NA	128x0.6mm	0.17		On	On
+3	3	I30f	SF3
+0.6	0.3	I26f	SF3
+1.5	1	I26f	SF3
+#
+
+*DS_CoronaryCTA_SAFIRE (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_CorCTA
+120	0.285	Helical	220	120	NA	128x0.6mm	0.17		On	On
+3	3	I30f	SF3
+0.6	0.3	I26f	SF3
+1.5	1	I26f	SF3
+#
+
+*FAST_Flash_Cardio (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_CaSc
+120	0.285	Helical	80	120	NA	128x0.6mm	3.4		On	On
+3	1.5	B35f	NA
++ Fl_CorCTA
+100	0.285	Helical	370	100	NA	128x0.6mm	3.4		On	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
++ DS_CorAdSeq
+100	0.285	Axial	370	100	NA	128x0.6mm	0		On	On
+3	NA	B30f	NA
+#
+
+*Flash_Cardio_IR (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_CaSc
+120	0.285	Helical	80	120	NA	128x0.6mm	3.4		Semi	On
+3	1.5	B35f	NA
++ Fl_CorCTA
+100	0.285	Helical	256	100	NA	128x0.6mm	3.4		On	On
+3	3	I30f	SF3
+0.6	0.3	I26f	SF3
++ DS_CorAdSeq
+100	0.285	Axial	256	100	NA	128x0.6mm	0		On	On
+3	NA	I30f	SF3
+0.6	NA	I26f	SF3
+#
+
+*Flash_Cardio_SAFIRE (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_CaSc
+120	0.285	Helical	80	120	NA	128x0.6mm	3.4		On	On
+3	1.5	B35f	NA
++ Fl_CorCTA
+100	0.285	Helical	290	100	NA	128x0.6mm	3.4		On	On
+3	3	I30f	SF3
+0.6	0.3	I26f	SF3
++ DS_CorAdSeq
+100	0.285	Axial	290	100	NA	128x0.6mm	0		On	On
+3	NA	I30f	SF3
+0.6	NA	I26f	SF3
+#
+
+*Flash_CaScore (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_CaSc
+120	0.285	Helical	80	120	NA	128x0.6mm	3.4		On	On
+3	1.5	B35f	NA
+#
+
+*LPCH_Flash_ChestPainECG (Adult)
+Adult
+Cardiac
++ Topogram
+120	0.5	Topo	NA	120	106	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+120	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+120	0.285	Axial	NA	120	10	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Fl_ChestPain
+120	0.285	Helical	320	120	NA	128x0.6mm	3.2		On	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+3	3	B30f	NA
+3	3	B70f	NA
+1	0.5	B30f	NA
+#
+
+*AngioRunOff (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	365	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ AngioRunOff
+120	0.5	Helical	120	120	NA	128x0.6mm	0.6		On	On
+5	5	B30f	NA
+1	0.7	B26f	NA
+#
+
+*AngioRunOff_IR (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	365	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ AngioRunOff
+120	0.5	Helical	84	120	NA	128x0.6mm	0.6		On	On
+5	5	I30f	SF3
+1	0.7	I26f	SF3
+#
+
+*AngioRunOff_SAFIRE (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	365	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ AngioRunOff
+120	0.5	Helical	85	120	NA	128x0.6mm	0.6		On	On
+5	5	I30f	SF3
+1	0.7	I26f	SF3
+#
+
+*BodyAngioRoutine (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ BodyAngio
+120	0.5	Helical	120	120	NA	128x0.6mm	1.2		On	On
+5	5	B30f	NA
+0.75	0.5	B26f	NA
+#
+
+*BodyAngioVol (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ BodyAngio
+120	0.5	Helical	120	120	NA	128x0.6mm	1.2		On	On
+5	5	B30f	NA
+3	3	B30f	NA
+#
+
+*BodyAngio_IR (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ BodyAngio
+120	0.5	Helical	84	120	NA	128x0.6mm	1.2		On	On
+5	5	I30f	SF3
+0.75	0.5	I26f	SF3
+#
+
+*BodyAngio_SAFIRE (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ BodyAngio
+120	0.5	Helical	85	120	NA	128x0.6mm	1.2		On	On
+5	5	I30f	SF3
+0.75	0.5	I26f	SF3
+#
+
+*BodyAngio_Vol (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ BodyAngio
+120	0.5	Helical	120	120	NA	128x0.6mm	1.2		On	On
+5	5	B30f	NA
+3	3	B30f	NA
+#
+
+*CarotidAngioRoutine (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CarotidAngio
+120	0.285	Helical	120	120	NA	128x0.6mm	1.2		On	On
+5	5	B30f	NA
+0.6	0.4	B26f	NA
+#
+
+*CarotidAngioVol (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CarotidAngio
+120	0.285	Helical	120	120	NA	128x0.6mm	1.2		On	On
+5	5	B30f	NA
+3	3	B30f	NA
+#
+
+*CarotidAngio_IR (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CarotidAngio
+120	0.285	Helical	84	120	NA	128x0.6mm	1.2		On	On
+5	5	I30f	SF3
+0.6	0.4	I26f	SF3
+#
+
+*CarotidAngio_SAFIRE (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CarotidAngio
+120	0.285	Helical	85	120	NA	128x0.6mm	1.2		On	On
+5	5	I30f	SF3
+0.6	0.4	I26f	SF3
+#
+
+*CarotidAngio_Vol (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ CarotidAngio
+120	0.285	Helical	120	120	NA	128x0.6mm	1.2		On	On
+5	5	B30f	NA
+3	3	B30f	NA
+#
+
+*CarotidDSACT (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Non Contrast
+120	0.285	Helical	60	120	NA	128x0.6mm	1.2		On	On
+0.6	0.4	B26f	NA
++ CarotidAngio
+120	0.285	Helical	120	120	NA	128x0.6mm	1.2		On	On
+5	5	B30f	NA
+0.6	0.4	B26f	NA
+#
+
+*CTA_AP_OVER55KG (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+100	0.285	Axial	NA	120	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+100	0.285	Axial	NA	120	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA AP
+120	0.285	Helical	120	100	NA	128x0.6mm	1.5		On	On
+1.5	0.75	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+#
+
+*CTA_CHEST_OVER55KG_FEMALE (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+100	0.285	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+100	0.285	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA CHEST
+100	0.285	Helical	145	100	NA	128x0.6mm	0.6		On	On
+1.5	0.75	B26f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+2	1	B60f	NA
+10	5	B45f	NA
+#
+
+*CTA_CHEST_OVER55KG_MALE (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+100	0.5	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ Monitoring
+100	0.5	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ CTA CHEST
+100	0.5	Helical	145	100	NA	128x0.6mm	1.1		On	On
+1.5	0.75	B26f	NA
+2	1	B45f	NA
+2	1	B45f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+2	1	B60f	NA
+10	5	B45f	NA
+#
+
+*CTA_FLASH_AP_OVER55KG (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+100	0.285	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+100	0.285	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA FL AP
+100	0.285	Helical	160	100	NA	128x0.6mm	3		On	On
+1.5	0.75	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+#
+
+*CTA_FLASH_CHEST_OVER55KG (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+100	0.285	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+100	0.285	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA FL CHEST
+100	0.285	Helical	160	100	NA	128x0.6mm	3		On	On
+1.5	0.75	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+0.6	0.6	B26f	NA
+0.5	0.5	I26f	SF2
+0.5	0.5	I26f	SF4
+2	2	B60f	NA
+10	5	B45f	NA
+#
+
+*CTA_FLASH_HEADNECK_OVER15Y (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+100	0.285	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+100	0.285	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ CTA_FL_HN
+100	0.285	Helical	160	100	NA	128x0.6mm	3		On	On
+1.5	0.75	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+#
+
+*CTA_HEADNECK_OVER15Y (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+100	0.5	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ Monitoring
+100	0.5	Axial	NA	100	20	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ CTA_HeadNeck
+120	0.5	Helical	120	100	NA	128x0.6mm	1.5		On	On
+1.5	0.75	B26f	NA
+2	1	B26f	NA
+2	1	B26f	NA
+#
+
+*CTA_RUNOFF_OVER55KG (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	120	365	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+100	0.5	Axial	NA	120	20	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ Monitoring
+100	0.5	Axial	NA	120	20	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ AngioRunOff
+120	0.5	Helical	120	120	NA	128x0.6mm	1.5		On	On
+10	250	B26f	NA
+#
+
+*DSXXL_ChestPainECG (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_ChestPain
+120	0.285	Helical	320	120	NA	128x0.6mm	0.17		On	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+0.6	0.3	B26f	NA
+3	3	B30f	NA
+3	3	B70f	NA
+1	0.5	B30f	NA
+#
+
+*DS_ChestECG_Abd (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	365	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_ChestPain
+120	0.285	Helical	320	120	NA	128x0.6mm	0.17		On	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+0.6	0.3	B26f	NA
+3	3	B30f	NA
+3	3	B70f	NA
+1	0.5	B30f	NA
++ BodyAngio
+120	0.285	Helical	120	120	NA	128x0.6mm	1.2		On	On
+3	3	B30f	NA
+0.6	0.4	B26f	NA
+#
+
+*DS_ChestPainECG (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DS_ChestPain
+120	0.285	Helical	320	120	NA	128x0.6mm	0.17		On	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+0.6	0.3	B26f	NA
+3	3	B30f	NA
+3	3	B70f	NA
+1	0.5	B30f	NA
+#
+
+*Embolism (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Embolism
+100	0.285	Helical	150	100	NA	128x0.6mm	1.2		On	On
+3	3	B30f	NA
+3	3	B70f	NA
+1	0.5	B30f	NA
+#
+
+*Embolism_IR (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Embolism
+100	0.285	Helical	105	100	NA	128x0.6mm	1.2		On	On
+3	3	I30f	SF3
+3	3	I70f	SF3
+1	0.5	I30f	SF3
+#
+
+*Embolism_SAFIRE (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Embolism
+100	0.285	Helical	90	100	NA	128x0.6mm	1.2		On	On
+3	3	I30f	SF3
+3	3	I70f	SF3
+1	0.5	I30f	SF3
+#
+
+*Flash_ChestPainECG (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_ChestPain
+120	0.285	Helical	320	120	NA	128x0.6mm	3.2		On	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+3	3	B30f	NA
+3	3	B70f	NA
+1	0.5	B30f	NA
++ DS_CorAdSeq
+120	0.285	Axial	320	120	NA	128x0.6mm	0		On	On
+3	NA	B30f	NA
+0.6	NA	B26f	NA
+#
+
+*Flash_ECG_Triggered_Chest_CTA (Adult)
+Adult
+Vascular
++ Topogram
+80	0.5	Topo	NA	120	275	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	0.285	Axial	NA	120	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Monitoring
+80	0.285	Axial	NA	120	20	1x10.0mm	0		Off	Off
+10	NA	B30f	NA
++ Fl_ChestPain
+100	0.285	Helical	280	120	NA	128x0.6mm	3.2		Semi	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+3	3	B30f	NA
+2	2	B60f	NA
+2	1	B30f	NA
+2	1	B30f	NA
+0.75	0.4	I30f	SF2
+#
+
+*Flash_Embolism (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Embolism
+100	0.285	Helical	170	100	NA	128x0.6mm	2.1		On	On
+3	3	B30f	NA
+3	3	B70f	NA
+1	0.5	B30f	NA
+#
+
+*Flash_Embolism_IR (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Embolism
+100	0.285	Helical	120	100	NA	128x0.6mm	2.2		On	On
+3	3	I30f	SF3
+3	3	I70f	SF3
+1	0.5	I30f	SF3
+#
+
+*Flash_Embolism_SAFIRE (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_Embolism
+100	0.285	Helical	100	100	NA	128x0.6mm	2.1		On	On
+3	3	I30f	SF3
+3	3	I70f	SF3
+1	0.5	I30f	SF3
+#
+
+*Flash_ThorAngio (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_ThorAngio
+100	0.285	Helical	160	100	NA	128x0.6mm	2.2		On	On
+5	5	B30f	NA
+5	5	B70f	NA
+0.75	0.5	B26f	NA
+#
+
+*Flash_ThorAngio_IR (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_ThorAngio
+100	0.285	Helical	112	100	NA	128x0.6mm	2.2		On	On
+5	5	I30f	SF3
+5	5	I70f	SF3
+0.75	0.5	I26f	SF3
+#
+
+*Flash_ThorAngio_SAFIRE (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Fl_ThorAngio
+100	0.285	Helical	100	100	NA	128x0.6mm	2.2		On	On
+5	5	I30f	SF3
+5	5	I70f	SF3
+0.75	0.5	I26f	SF3
+#
+
+*HeadAngioRoutine (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	109	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+100	0.5	Helical	175	100	NA	128x0.6mm	1.2		On	On
+4	4	H20f	NA
+0.6	0.4	H10f	NA
+#
+
+*HeadAngioVol (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	109	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+100	0.5	Helical	175	100	NA	128x0.6mm	1.2		On	On
+4	4	H20f	NA
+4	4	H10f	NA
+#
+
+*HeadAngio_IR (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+100	0.5	Helical	123	100	NA	128x0.6mm	1.2		On	On
+4	4	J30f	SF3
+0.6	0.4	J30f	SF3
+#
+
+*HeadAngio_SAFIRE (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	109	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+100	0.5	Helical	125	100	NA	128x0.6mm	1.2		On	On
+4	4	J30f	SF3
+0.6	0.4	J30f	SF3
+#
+
+*HeadAngio_Vol (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+100	0.5	Helical	175	100	NA	128x0.6mm	1.2		On	On
+4	4	H20f	NA
+4	4	H10f	NA
+#
+
+*HeadAngio_XCARE (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	109	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+100	0.285	Helical	175	100	NA	128x0.6mm	0.6		On	On
+4	4	H20f	NA
+0.6	0.4	H10f	NA
+#
+
+*HeadAngio_XCARE_IR (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+100	0.285	Helical	123	100	NA	128x0.6mm	0.6		On	On
+4	4	J30f	SF3
+0.6	0.4	J30f	SF3
+#
+
+*HeadAngio_XCARE_SAFIRE (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	109	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+100	0.285	Helical	125	100	NA	128x0.6mm	0.6		On	On
+4	4	J30f	SF3
+0.6	0.4	J30f	SF3
+#
+
+*NeuroDSACT (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	109	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Non Contrast
+100	0.5	Helical	90	100	NA	128x0.6mm	1.2		On	On
+0.6	0.4	H10f	NA
++ HeadAngio
+100	0.5	Helical	175	100	NA	128x0.6mm	1.2		On	On
+4	4	H20f	NA
+0.6	0.4	H10f	NA
+#
+
+*ThorAngioRoutine (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorAngio
+100	0.5	Helical	145	100	NA	128x0.6mm	1.2		On	On
+5	5	B30f	NA
+5	5	B70f	NA
+0.75	0.5	B26f	NA
+#
+
+*ThorAngioVol (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorAngio
+100	0.5	Helical	145	100	NA	128x0.6mm	1.2		On	On
+5	5	B30f	NA
+5	5	B70f	NA
+3	3	B30f	NA
+#
+
+*ThorAngio_IR (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorAngio
+80	0.5	Helical	157	80	NA	128x0.6mm	1.2		On	On
+5	5	I30f	SF3
+5	5	I70f	SF3
+0.75	0.5	I26f	SF3
+#
+
+*ThorAngio_SAFIRE (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorAngio
+100	0.5	Helical	90	100	NA	128x0.6mm	1.2		On	On
+5	5	I30f	SF3
+5	5	I70f	SF3
+0.75	0.5	I26f	SF3
+#
+
+*ThorAngio_Vol (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorAngio
+80	0.5	Helical	224	80	NA	128x0.6mm	1.2		On	On
+5	5	B30f	NA
+5	5	B70f	NA
+3	3	B30f	NA
+#
+
+*ThorAngio_XCARE (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorAngio
+100	0.285	Helical	145	100	NA	128x0.6mm	0.6		On	On
+5	5	B30f	NA
+5	5	B70f	NA
+0.75	0.5	B26f	NA
+#
+
+*ThorAngio_XCARE_IR (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorAngio
+80	0.285	Helical	157	80	NA	128x0.6mm	0.6		On	On
+5	5	I30f	SF3
+5	5	I70f	SF3
+0.75	0.5	I26f	SF3
+#
+
+*ThorAngio_XCARE_SAFIRE (Adult)
+Adult
+Vascular
++ Topogram
+100	0.5	Topo	NA	100	212	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ ThorAngio
+100	0.285	Helical	90	100	NA	128x0.6mm	0.6		On	On
+5	5	I30f	SF3
+5	5	I70f	SF3
+0.75	0.5	I26f	SF3
+#
+
+*WholeBodyAngio (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	365	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ WholeBody
+120	0.5	Helical	120	120	NA	128x0.6mm	1.2		On	On
+5	5	B30f	NA
+0.75	0.5	B26f	NA
+#
+
+*WholeBodyAngio_IR (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	365	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ WholeBody
+120	0.5	Helical	84	120	NA	128x0.6mm	1.2		On	On
+5	5	I30f	SF3
+0.75	0.5	I26f	SF3
+#
+
+*WholeBodyAngio_SAFIRE (Adult)
+Adult
+Vascular
++ Topogram
+120	0.5	Topo	NA	120	365	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ WholeBody
+120	0.5	Helical	85	120	NA	128x0.6mm	1.2		On	On
+5	5	I30f	SF3
+0.75	0.5	I26f	SF3
+#
+
+*ABD_INTERVENTION (Adult)
+Adult
+Private
++ Topogram
+80	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Localizer
+120	0.5	Helical	210	100	NA	128x0.6mm	1.4		On	On
+5	5	B30f	NA
++ i-Sequence
+100	0.5	Axial	NA	NA	50	12x1.2mm	0		NA	Off
+4.8	NA	B30s	NA
++ Post 
+120	0.5	Helical	210	100	NA	128x0.6mm	1.4		On	On
+5	5	B30f	NA
+#
+
+*CTDI_body (Adult)
+Adult
+Private
++ Abd/Pel
+120	0.5	Helical	NA	100	200	128x0.6mm	1		Off	Off
+5	5	B30f	NA
+#
+
+*CTDI_head (Adult)
+Adult
+Private
++ Head
+120	1	Helical	NA	120	390	128x0.6mm	0.6		Off	Off
+5	5	H31s	NA
+#
+
+*DAILY_QC (Adult)
+Adult
+Private
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Axial (1,8)
+120	1	Axial	NA	120	380	32x1.2mm	0		Off	Off
+2	NA	H31s	NA
++ Helical (3)
+120	0.5	Helical	NA	100	220	128x0.6mm	1		Off	Off
+5	5	B30f	NA
+#
+
+*LUNG_INTERVENTION (Adult)
+Adult
+Private
++ Topogram
+80	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Localizer
+100	0.5	Helical	110	100	NA	128x0.6mm	1.1		On	On
+5	5	B30f	NA
+2	2	B60f	NA
+2	2	B30f	NA
++ i-Sequence
+100	0.5	Axial	NA	NA	30	12x1.2mm	0		NA	Off
+4.8	NA	B31s	NA
++ Post
+120	0.5	Helical	110	120	NA	128x0.6mm	1.1		On	On
+5	5	B30f	NA
+5	5	B60f	NA
+#
+
+*SHC_IR_Protocols_Above (Adult)
+Adult
+Private
+#
+
+*SHC_IR_Protocols_Below (Adult)
+Adult
+Private
+#
+
+*TRIPHASIC_LIVER (Adult)
+Adult
+Private
++ Topogram
+80	0.5	Topo	NA	100	314	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ PreMonitoring
+80	1	Axial	NA	100	50	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ Monitoring
+80	1	Axial	NA	100	50	1x10.0mm	0		Off	Off
+10	NA	B30s	NA
++ Arterial 
+80	1	Helical	210	120	NA	128x0.6mm	1		Semi	On
+3	3	I31s	SF2
+1	0.75	I26s	SF3
+2	2	I26s	NA
++ Venous
+80	0.5	Helical	210	120	NA	128x0.6mm	1		Semi	On
+3	3	I30f	SF2
+1	1	I30f	SF3
+2	2	I30f	NA
+2	2	I30f	NA
++ Delay
+80	1	Helical	210	120	NA	128x0.6mm	1		Semi	On
+3	3	I31s	SF2
+1	1	I30s	SF3
+2	2	I30s	NA
+2	2	I30s	NA
+#
+
+*GREATER_THAN_12_RPM (Adult)
+Adult
+RT
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Resp
+120	0.5	Helical	NA	120	40	32x1.2mm	0.09		Off	Off
+3	2	B30f	NA
+3	2	B30f	NA
+#
+
+*GREATER_THAN_6_RPM (Adult)
+Adult
+RT
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ RespLow
+120	1	Helical	NA	120	40	32x1.2mm	0.09		Off	Off
+3	2	B30s	NA
+3	2	B30s	NA
+#
+
+*RT_Abdomen (Adult)
+Adult
+RT
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Abdomen
+120	0.5	Helical	210	120	NA	128x0.6mm	0.6		Off	On
+8	8	B30f	NA
+8	8	B60f	NA
+#
+
+*RT_Breast (Adult)
+Adult
+RT
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Breast
+120	0.5	Helical	140	120	NA	128x0.6mm	1.2		Off	On
+8	8	B31f	NA
+8	8	B70f	NA
+#
+
+*RT_Head (Adult)
+Adult
+RT
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+120	1	Helical	390	120	NA	128x0.6mm	0.55		Off	On
+3	3	H31s	NA
+3	3	H60s	NA
+#
+
+*RT_HeadNeckShoulder (Adult)
+Adult
+RT
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadNeckShoul
+120	1	Helical	200	120	NA	32x1.2mm	0.8		Semi	On
+4	4	B30s	NA
+#
+
+*RT_Pelvis (Adult)
+Adult
+RT
++ Topogram
+120	0.5	Topo	NA	120	318	6x0.6mm	0		Off	Off
+0.6	NA	T80f	NA
++ Pelvis
+120	0.5	Helical	190	120	NA	32x1.2mm	0.8		Off	On
+3	3	B31f	NA
+3	3	B60f	NA
+#
+
+*RT_Resp (Adult)
+Adult
+RT
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Resp
+120	0.5	Helical	NA	120	40	32x1.2mm	0.09		Off	Off
+3	2	B30f	NA
+3	2	B30f	NA
+#
+
+*RT_RespLowBreathRate (Adult)
+Adult
+RT
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ RespLow
+120	1	Helical	NA	120	40	32x1.2mm	0.09		Off	Off
+3	2	B30s	NA
+3	2	B30s	NA
+#
+
+*RT_RespSeq (Adult)
+Adult
+RT
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ RespSeq
+120	0.5	Axial	NA	120	20	32x1.2mm	0		Off	Off
+3	NA	B30f	NA
++ RespSeq
+120	0.5	Axial	NA	120	20	32x1.2mm	0		Off	Off
+3	NA	B30f	NA
+#
+
+*RT_Thorax (Adult)
+Adult
+RT
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Thorax
+120	0.5	Helical	140	120	NA	128x0.6mm	1.2		Off	On
+8	8	B31f	NA
+8	8	B70f	NA
+#
+
+*DE_AbdomenSeq (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_AbdSeq
+100	0.5	Axial	171	NA	NA	32x0.6mm	0		NA	On
+5	NA	B31f	NA
+1.5	NA	D30f	NA
+#
+
+*DE_Abdomen_KidneyStones (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Abdomen
+100	0.5	Helical	210	NA	NA	32x0.6mm	0.7		NA	On
+5	5	B30f	NA
+1.5	1	D30f	NA
+#
+
+*DE_Abdomen_LiverVNC (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Abdomen
+100	0.5	Helical	230	NA	NA	32x0.6mm	0.6		NA	On
+5	5	B30f	NA
+1.5	1	D30f	NA
+#
+
+*DE_Abdomen_VNC (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Abdomen
+100	0.5	Helical	230	NA	NA	32x0.6mm	0.6		NA	On
+5	5	B30f	NA
+1.5	1	D30f	NA
+#
+
+*DE_BodyAngioFast_BoneRem (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_BodyAngio
+100	0.33	Helical	119	NA	NA	128x0.6mm	0.7		NA	On
+5	5	B30f	NA
+1.5	1	D26f	NA
+#
+
+*DE_BodyAngio_BoneRem (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_BodyAngio
+100	0.5	Helical	119	NA	NA	32x0.6mm	0.9		NA	On
+5	5	B30f	NA
+1.5	1	D26f	NA
+#
+
+*DE_BodyAngio_BoneRem_IR (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_BodyAngio
+100	0.5	Helical	95	NA	NA	32x0.6mm	0.9		NA	On
+5	5	I30f	SF3
+1.5	1	Q30f	NA
+#
+
+*DE_BodyAngio_BoneRem_SAFIRE (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_BodyAngio
+100	0.5	Helical	95	NA	NA	32x0.6mm	0.9		NA	On
+5	5	I30f	SF3
+1.5	1	Q30f	NA
+#
+
+*DE_Body_BoneMarrow (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	365	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	365	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Body
+100	0.5	Helical	230	NA	NA	32x0.6mm	0.6		NA	On
+5	5	B30f	NA
+1.5	1	D34f	NA
+#
+
+*DE_Body_OptiCon (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Body
+140	0.5	Helical	32	NA	NA	32x0.6mm	0.7		NA	On
+5	5	B30f	NA
+1.5	1	D30f	NA
+#
+
+*DE_CarotidAngioFast_BoneRem (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_CarotidAngio
+100	0.285	Helical	104	NA	NA	128x0.6mm	0.7		NA	On
+5	5	B30f	NA
+1	0.7	D26f	NA
+#
+
+*DE_CarotidAngio_BoneRem (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	164	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_CarotidAngio
+100	0.285	Helical	114	NA	NA	64x0.6mm	0.9		NA	On
+5	5	B30f	NA
+1	0.7	D26f	NA
+#
+
+*DE_CoronaryCTA_HeartPBV (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_CorCTA
+100	0.285	Helical	165	NA	NA	64x0.6mm	0.17		NA	On
+3	3	B30f	NA
+0.6	0.3	B26f	NA
+1	0.7	D33f	NA
+#
+
+*DE_CoronaryCTA_Seq (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_CorSeq
+100	0.285	Axial	165	NA	NA	64x0.6mm	0		NA	On
+3	NA	B30f	NA
+1.5	NA	D33f	NA
+#
+
+*DE_ExtrAngio_BoneRem (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	365	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	365	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_ExtrAngio
+80	0.33	Helical	230	NA	NA	64x0.6mm	0.7		NA	On
+5	5	B30f	NA
+1.5	1	D30f	NA
+#
+
+*DE_Foot_Gout (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ DE_Foot
+80	1	Helical	250	NA	NA	40x0.6mm	0.7		NA	On
+2	2	B20s	NA
+0.75	0.5	D34s	NA
+#
+
+*DE_Hand_Gout (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ DE_Hand
+80	0.33	Helical	205	NA	NA	64x0.6mm	0.7		NA	On
+2	2	B20f	NA
+0.75	0.5	D34f	NA
+#
+
+*DE_HeadAngio_BoneRem (Adult)
+Adult
+DualEnergy
++ Topogram
+100	0.5	Topo	NA	100	109	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_HeadAngio
+80	0.33	Helical	222	NA	NA	64x0.6mm	0.7		NA	On
+4	4	H20f	NA
+1	0.7	D26f	NA
+#
+
+*DE_Head_BrainHem (Adult)
+Adult
+DualEnergy
++ Topogram
+100	0.5	Topo	NA	100	109	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Head
+80	0.5	Helical	310	NA	NA	40x0.6mm	0.7		NA	On
+4	4	H20f	NA
+1	0.7	D34f	NA
+#
+
+*DE_Knee_BoneMarrow (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ DE_Knee
+80	0.5	Helical	240	NA	NA	32x0.6mm	0.7		NA	On
+3	3	B30f	NA
+0.75	0.5	D30f	NA
+#
+
+*DE_Knee_Tendon (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ DE_Knee
+140	1	Helical	45	NA	NA	40x0.6mm	0.7		NA	On
+2	2	B20s	NA
+0.75	0.5	D34s	NA
+#
+
+*DE_Spine_Metal_Vol (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Spine
+100	0.5	Helical	NA	NA	NA	32x0.6mm	0.5		NA	Off
+3	3	B30f	NA
+1.5	1	D30f	NA
+1.5	1	B20f	NA
+2	2	B20f	NA
+2	2	B60f	NA
+#
+
+*DE_STONES (Adult)
+Adult
+DualEnergy
++ Topogram LAT
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram PA
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE Stones
+100	0.5	Helical	210	NA	NA	32x0.6mm	0.7		NA	On
+5	5	B30f	NA
+1.5	1	D30f	NA
+#
+
+*DE_Thorax_Analysis (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Thorax
+100	0.285	Helical	89	NA	NA	64x0.6mm	0.55		NA	On
+5	5	B31f	NA
+5	5	B80f	NA
+2	1.4	D33f	NA
+#
+
+*DE_Thorax_Analysis_IR (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Thorax
+100	0.285	Helical	71	NA	NA	64x0.6mm	0.55		NA	On
+5	5	I31f	SF3
+5	5	I70f	SF3
+2	1.4	Q30f	NA
+#
+
+*DE_Thorax_Analysis_SAFIRE (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Thorax
+100	0.285	Helical	71	NA	NA	64x0.6mm	0.55		NA	On
+5	5	I31f	SF3
+5	5	I70f	SF3
+2	1.4	Q30f	NA
+#
+
+*DE_Thorax_Analysis_XCARE (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Thorax
+100	0.285	Helical	89	NA	NA	64x0.6mm	0.55		NA	On
+5	5	B31f	NA
+5	5	B80f	NA
+2	1.4	D30f	NA
+#
+
+*DE_Thorax_LungNodules (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Thorax
+80	0.285	Helical	205	NA	NA	64x0.6mm	0.55		NA	On
+5	5	B31f	NA
+5	5	B80f	NA
+1.5	1	D30f	NA
+#
+
+*DE_Thorax_LungPBV (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Thorax
+100	0.285	Helical	89	NA	NA	64x0.6mm	0.55		NA	On
+5	5	B31f	NA
+5	5	B80f	NA
+2	1.4	D33f	NA
+#
+
+*DE_Thorax_Xenon (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	120	185	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ DE_Thorax
+100	0.285	Helical	89	NA	NA	64x0.6mm	0.55		NA	On
+5	5	B31f	NA
+5	5	B80f	NA
+2	1.4	D34f	NA
+#
+
+*DE_Wrist_Tendon (Adult)
+Adult
+DualEnergy
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ Topogram
+120	0.5	Topo	NA	NA	96	6x0.6mm	0		NA	Off
+0.6	NA	T20f	NA
++ DE_Wrist
+140	0.33	Helical	37	NA	NA	64x0.6mm	0.7		NA	On
+2	2	B20f	NA
+0.75	0.5	D34f	NA
+#
+
