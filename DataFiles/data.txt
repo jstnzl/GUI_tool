@@ -1,0 +1,61 @@
+*2_3D_CRANIUM (Child)
+Child
+Head
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ 3D CRANIUM
+100	0.285	Helical	112	100	NA	128x0.6mm	1		Semi	On
+1	0.5	H60f	NA
+1	0.5	J30f	SF3
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+5	5	J30f	SF4
+#
+
+*2_3D_SKULL (Adult)
+Adult
+Cardiac
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ 3D SKULL
+100	0.285	Helical	112	100	NA	128x0.6mm	1		Semi	On
+1	0.5	H60f	NA
+1	0.5	J30f	SF3
+1	0.5	H60f	NA
+1	0.5	H60f	NA
+5	5	J30f	SF4
++ Topogram
+100	0.5	Topo	NA	100	109	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+100	0.5	Helical	175	100	NA	128x0.6mm	1.2		On	On
+4	4	H20f	NA
+0.6	0.4	H10f	NA
++ Topogram
+100	0.5	Topo	NA	100	109	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ HeadAngio
+100	0.5	Helical	175	100	NA	128x0.6mm	1.2		On	On
+4	4	H20f	NA
+0.6	0.4	H10f	NA
+#
+
+*2_BRAIN_6MTO6Y (Child)
+Child
+Pelvis
++ Topogram
+100	0.5	Topo	NA	120	96	6x0.6mm	0		Off	Off
+0.6	NA	T20f	NA
++ Head
+100	0.33	Helical	230	100	NA	128x0.6mm	0.6		Semi	On
+5	5	H30f	NA
+5	5	J30f	SF4
+1	1	H60f	NA
+3	3	J30f	SF4
+2	2	J30f	NA
+2	2	H60f	NA
+2	2	J30f	NA
+2	2	H60f	NA
+#
